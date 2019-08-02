@@ -1,0 +1,8 @@
+2019-07-30 10:30:59.326  INFO 6320 --- [main] com.imooc.sell.LoggerTest                : Starting LoggerTest on DESKTOP-JU4PEEA with PID 6320 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-07-30 10:30:59.329  INFO 6320 --- [main] com.imooc.sell.LoggerTest                : No active profile set, falling back to default profiles: default
+2019-07-30 10:31:03.205  INFO 6320 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-30 10:31:04.258  INFO 6320 --- [main] com.imooc.sell.LoggerTest                : Started LoggerTest in 5.902 seconds (JVM running for 8.089)
+2019-07-30 10:31:05.522  INFO 6320 --- [main] com.imooc.sell.LoggerTest                : info.....
+2019-07-30 10:31:05.546  INFO 6320 --- [main] com.imooc.sell.LoggerTest                : name:imooc,password:123456
+2019-07-30 10:31:05.548 ERROR 6320 --- [main] com.imooc.sell.LoggerTest                : error.....
+2019-07-30 10:31:05.619  INFO 6320 --- [Thread-1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

@@ -1,0 +1,1316 @@
+2019-08-02 11:21:34,183 - Starting ProductServiceImplTest on DESKTOP-JU4PEEA with PID 8256 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 11:21:34,184 - No active profile set, falling back to default profiles: default
+2019-08-02 11:21:44,633 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 11:21:46,126 - Finished Spring Data repository scanning in 1104ms. Found 2 repository interfaces.
+2019-08-02 11:21:47,838 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f98ac129] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 11:21:49,377 - HikariPool-1 - Starting...
+2019-08-02 11:21:49,384 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 11:21:51,201 - HikariPool-1 - Start completed.
+2019-08-02 11:21:52,194 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 11:21:54,092 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 11:21:54,110 - HHH000206: hibernate.properties not found
+2019-08-02 11:21:59,776 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 11:22:03,602 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 11:22:07,349 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 11:22:10,187 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-02 11:22:10,357 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-02 11:22:10,956 - Started ProductServiceImplTest in 42.257 seconds (JVM running for 54.835)
+2019-08-02 11:22:12,228 - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-02 11:22:12,231 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 11:22:12,234 - HikariPool-1 - Shutdown initiated...
+2019-08-02 11:22:12,256 - HikariPool-1 - Shutdown completed.
+2019-08-02 11:25:50,232 - Starting ProductServiceImplTest on DESKTOP-JU4PEEA with PID 10684 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 11:25:50,253 - No active profile set, falling back to default profiles: default
+2019-08-02 11:25:54,267 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 11:25:54,708 - Finished Spring Data repository scanning in 175ms. Found 2 repository interfaces.
+2019-08-02 11:25:55,675 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$23b2883e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 11:25:56,861 - HikariPool-1 - Starting...
+2019-08-02 11:25:56,871 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 11:25:57,647 - HikariPool-1 - Start completed.
+2019-08-02 11:25:57,994 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 11:25:58,498 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 11:25:58,500 - HHH000206: hibernate.properties not found
+2019-08-02 11:25:59,239 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 11:26:01,681 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 11:26:03,251 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 11:26:05,902 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-02 11:26:06,034 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-02 11:26:06,650 - Started ProductServiceImplTest in 19.796 seconds (JVM running for 28.247)
+2019-08-02 11:26:07,618 - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-02 11:26:07,620 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 11:26:07,624 - HikariPool-1 - Shutdown initiated...
+2019-08-02 11:26:07,786 - HikariPool-1 - Shutdown completed.
+2019-08-02 11:27:59,338 - Starting ProductServiceImplTest on DESKTOP-JU4PEEA with PID 5848 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 11:27:59,340 - No active profile set, falling back to default profiles: default
+2019-08-02 11:28:01,480 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 11:28:01,584 - Finished Spring Data repository scanning in 93ms. Found 2 repository interfaces.
+2019-08-02 11:28:02,328 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5bd86eed] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 11:28:02,844 - HikariPool-1 - Starting...
+2019-08-02 11:28:02,854 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 11:28:03,121 - HikariPool-1 - Start completed.
+2019-08-02 11:28:03,276 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 11:28:03,578 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 11:28:03,582 - HHH000206: hibernate.properties not found
+2019-08-02 11:28:04,111 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 11:28:05,063 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 11:28:05,662 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 11:28:07,269 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-02 11:28:07,365 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-02 11:28:08,009 - Started ProductServiceImplTest in 9.757 seconds (JVM running for 12.663)
+2019-08-02 11:28:08,464 - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-02 11:28:08,465 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 11:28:08,469 - HikariPool-1 - Shutdown initiated...
+2019-08-02 11:28:08,479 - HikariPool-1 - Shutdown completed.
+2019-08-02 11:35:45,965 - Starting ProductServiceImplTest on DESKTOP-JU4PEEA with PID 10532 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 11:35:45,967 - No active profile set, falling back to default profiles: default
+2019-08-02 11:35:48,425 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 11:35:48,596 - Finished Spring Data repository scanning in 154ms. Found 2 repository interfaces.
+2019-08-02 11:35:49,425 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$23b2883e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 11:35:49,869 - HikariPool-1 - Starting...
+2019-08-02 11:35:49,875 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 11:35:50,264 - HikariPool-1 - Start completed.
+2019-08-02 11:35:50,746 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 11:35:51,044 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 11:35:51,046 - HHH000206: hibernate.properties not found
+2019-08-02 11:35:51,771 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 11:35:53,066 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 11:35:55,082 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 11:35:57,755 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-02 11:35:57,922 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-02 11:35:58,716 - Started ProductServiceImplTest in 14.112 seconds (JVM running for 16.757)
+2019-08-02 11:35:59,882 - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-02 11:35:59,884 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 11:35:59,889 - HikariPool-1 - Shutdown initiated...
+2019-08-02 11:35:59,962 - HikariPool-1 - Shutdown completed.
+2019-08-02 11:42:16,995 - Starting ProductServiceImplTest on DESKTOP-JU4PEEA with PID 5588 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 11:42:17,000 - No active profile set, falling back to default profiles: default
+2019-08-02 11:42:19,627 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 11:42:19,821 - Finished Spring Data repository scanning in 176ms. Found 2 repository interfaces.
+2019-08-02 11:42:20,974 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c156776f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 11:42:21,447 - HikariPool-1 - Starting...
+2019-08-02 11:42:21,460 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 11:42:21,809 - HikariPool-1 - Start completed.
+2019-08-02 11:42:21,987 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 11:42:22,146 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 11:42:22,150 - HHH000206: hibernate.properties not found
+2019-08-02 11:42:22,387 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 11:42:22,997 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 11:42:24,096 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 11:42:25,669 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-02 11:42:25,906 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-02 11:42:27,125 - Started ProductServiceImplTest in 11.919 seconds (JVM running for 13.814)
+2019-08-02 11:42:27,540 - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-02 11:42:27,542 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 11:42:27,547 - HikariPool-1 - Shutdown initiated...
+2019-08-02 11:42:27,567 - HikariPool-1 - Shutdown completed.
+2019-08-02 11:49:17,394 - Starting ProductInfoRepositoryTest on DESKTOP-JU4PEEA with PID 10684 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 11:49:17,396 - No active profile set, falling back to default profiles: default
+2019-08-02 11:49:20,276 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 11:49:20,439 - Finished Spring Data repository scanning in 147ms. Found 2 repository interfaces.
+2019-08-02 11:49:21,532 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$3ec587f5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 11:49:21,933 - HikariPool-1 - Starting...
+2019-08-02 11:49:21,942 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 11:49:22,244 - HikariPool-1 - Start completed.
+2019-08-02 11:49:22,412 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 11:49:22,538 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 11:49:22,540 - HHH000206: hibernate.properties not found
+2019-08-02 11:49:22,789 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 11:49:23,426 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 11:49:24,346 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 11:49:26,249 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-02 11:49:26,718 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-02 11:49:27,961 - Started ProductInfoRepositoryTest in 11.681 seconds (JVM running for 13.523)
+2019-08-02 11:49:29,033 - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-02 11:49:29,035 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 11:49:29,038 - HikariPool-1 - Shutdown initiated...
+2019-08-02 11:49:29,117 - HikariPool-1 - Shutdown completed.
+2019-08-02 11:52:36,604 - Starting ProductInfoRepositoryTest on DESKTOP-JU4PEEA with PID 11080 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 11:52:36,605 - No active profile set, falling back to default profiles: default
+2019-08-02 11:52:38,986 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 11:52:39,196 - Finished Spring Data repository scanning in 186ms. Found 2 repository interfaces.
+2019-08-02 11:52:40,285 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d7859b10] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 11:52:40,686 - HikariPool-1 - Starting...
+2019-08-02 11:52:40,693 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 11:52:40,964 - HikariPool-1 - Start completed.
+2019-08-02 11:52:41,108 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 11:52:41,238 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 11:52:41,243 - HHH000206: hibernate.properties not found
+2019-08-02 11:52:41,498 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 11:52:42,183 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 11:52:42,817 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 11:52:44,449 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-02 11:52:44,565 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-02 11:52:45,656 - Started ProductInfoRepositoryTest in 10.856 seconds (JVM running for 12.879)
+2019-08-02 11:52:46,846 - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-02 11:52:46,848 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 11:52:46,852 - HikariPool-1 - Shutdown initiated...
+2019-08-02 11:52:46,895 - HikariPool-1 - Shutdown completed.
+2019-08-02 11:53:27,320 - Starting ProductServiceImplTest on DESKTOP-JU4PEEA with PID 11632 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 11:53:27,321 - No active profile set, falling back to default profiles: default
+2019-08-02 11:53:29,790 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 11:53:29,943 - Finished Spring Data repository scanning in 137ms. Found 2 repository interfaces.
+2019-08-02 11:53:30,797 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7eb6cdb5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 11:53:31,262 - HikariPool-1 - Starting...
+2019-08-02 11:53:31,272 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 11:53:31,511 - HikariPool-1 - Start completed.
+2019-08-02 11:53:31,630 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 11:53:31,887 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 11:53:31,891 - HHH000206: hibernate.properties not found
+2019-08-02 11:53:32,353 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 11:53:33,438 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 11:53:34,090 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 11:53:35,527 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-02 11:53:35,612 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-02 11:53:36,250 - Started ProductServiceImplTest in 10.453 seconds (JVM running for 13.255)
+2019-08-02 11:53:36,873 - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-02 11:53:36,876 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 11:53:36,880 - HikariPool-1 - Shutdown initiated...
+2019-08-02 11:53:36,891 - HikariPool-1 - Shutdown completed.
+2019-08-02 12:56:49,538 - Starting SellApplication on DESKTOP-JU4PEEA with PID 10452 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 12:56:49,737 - No active profile set, falling back to default profiles: default
+2019-08-02 12:57:02,074 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 12:57:03,149 - Finished Spring Data repository scanning in 268ms. Found 2 repository interfaces.
+2019-08-02 12:57:04,847 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$81efee7f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 12:57:15,610 - Tomcat initialized with port(s): 8080 (http)
+2019-08-02 12:57:15,891 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-02 12:57:15,965 - Starting service [Tomcat]
+2019-08-02 12:57:15,965 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-02 12:57:19,978 - Initializing Spring embedded WebApplicationContext
+2019-08-02 12:57:19,979 - Root WebApplicationContext: initialization completed in 28365 ms
+2019-08-02 12:57:22,358 - HikariPool-1 - Starting...
+2019-08-02 12:57:22,362 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 12:57:24,918 - HikariPool-1 - Start completed.
+2019-08-02 12:57:25,771 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 12:57:27,095 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 12:57:27,118 - HHH000206: hibernate.properties not found
+2019-08-02 12:57:29,995 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 12:57:33,105 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 12:57:39,467 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 12:57:43,589 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-02 12:57:43,765 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-02 12:57:44,691 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-02 12:57:44,963 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-02 12:57:45,024 - Started SellApplication in 65.205 seconds (JVM running for 92.999)
+2019-08-02 12:58:53,869 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-02 12:58:53,870 - Initializing Servlet 'dispatcherServlet'
+2019-08-02 12:58:53,907 - Completed initialization in 37 ms
+2019-08-02 13:01:49,729 - Starting SellApplication on DESKTOP-JU4PEEA with PID 11420 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 13:01:49,756 - No active profile set, falling back to default profiles: default
+2019-08-02 13:01:50,845 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 13:01:50,935 - Finished Spring Data repository scanning in 83ms. Found 2 repository interfaces.
+2019-08-02 13:01:51,257 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$495ed9e4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 13:01:52,116 - Tomcat initialized with port(s): 8080 (http)
+2019-08-02 13:01:52,137 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-02 13:01:52,153 - Starting service [Tomcat]
+2019-08-02 13:01:52,154 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-02 13:01:52,446 - Initializing Spring embedded WebApplicationContext
+2019-08-02 13:01:52,447 - Root WebApplicationContext: initialization completed in 2575 ms
+2019-08-02 13:01:52,727 - HikariPool-1 - Starting...
+2019-08-02 13:01:52,731 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 13:01:52,934 - HikariPool-1 - Start completed.
+2019-08-02 13:01:53,053 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 13:01:53,158 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 13:01:53,161 - HHH000206: hibernate.properties not found
+2019-08-02 13:01:53,592 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 13:01:53,855 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 13:01:54,357 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 13:01:54,876 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-02 13:01:54,911 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-02 13:01:55,091 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-02 13:01:55,150 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-02 13:01:55,153 - Started SellApplication in 6.405 seconds (JVM running for 8.669)
+2019-08-02 13:03:11,923 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-02 13:03:11,925 - Initializing Servlet 'dispatcherServlet'
+2019-08-02 13:03:11,934 - Completed initialization in 9 ms
+2019-08-02 13:16:46,147 - Starting SellApplication on DESKTOP-JU4PEEA with PID 32 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 13:16:46,152 - No active profile set, falling back to default profiles: default
+2019-08-02 13:16:47,212 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 13:16:47,307 - Finished Spring Data repository scanning in 75ms. Found 2 repository interfaces.
+2019-08-02 13:16:47,713 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$bffb7e7e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 13:16:48,091 - Tomcat initialized with port(s): 8080 (http)
+2019-08-02 13:16:48,114 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-02 13:16:48,131 - Starting service [Tomcat]
+2019-08-02 13:16:48,132 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-02 13:16:48,364 - Initializing Spring embedded WebApplicationContext
+2019-08-02 13:16:48,364 - Root WebApplicationContext: initialization completed in 2151 ms
+2019-08-02 13:16:48,512 - HikariPool-1 - Starting...
+2019-08-02 13:16:48,515 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 13:16:48,654 - HikariPool-1 - Start completed.
+2019-08-02 13:16:48,707 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 13:16:48,766 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 13:16:48,768 - HHH000206: hibernate.properties not found
+2019-08-02 13:16:48,903 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 13:16:49,056 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 13:16:49,440 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 13:16:50,006 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-02 13:16:50,052 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-02 13:16:50,238 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-02 13:16:50,263 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-02 13:16:50,267 - Started SellApplication in 5.125 seconds (JVM running for 6.853)
+2019-08-02 13:18:20,865 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-02 13:18:20,867 - Initializing Servlet 'dispatcherServlet'
+2019-08-02 13:18:20,877 - Completed initialization in 10 ms
+2019-08-02 13:31:29,095 - Starting SellApplication on DESKTOP-JU4PEEA with PID 12000 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 13:31:29,099 - No active profile set, falling back to default profiles: default
+2019-08-02 13:31:30,803 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 13:31:30,920 - Finished Spring Data repository scanning in 104ms. Found 2 repository interfaces.
+2019-08-02 13:31:31,423 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c4298f42] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 13:31:31,699 - Tomcat initialized with port(s): 8080 (http)
+2019-08-02 13:31:31,713 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-02 13:31:31,725 - Starting service [Tomcat]
+2019-08-02 13:31:31,725 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-02 13:31:31,939 - Initializing Spring embedded WebApplicationContext
+2019-08-02 13:31:31,939 - Root WebApplicationContext: initialization completed in 2737 ms
+2019-08-02 13:31:32,081 - HikariPool-1 - Starting...
+2019-08-02 13:31:32,084 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 13:31:32,212 - HikariPool-1 - Start completed.
+2019-08-02 13:31:32,264 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 13:31:32,320 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 13:31:32,322 - HHH000206: hibernate.properties not found
+2019-08-02 13:31:32,461 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 13:31:32,594 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 13:31:32,953 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 13:31:33,450 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-02 13:31:33,481 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-02 13:31:33,690 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-02 13:31:33,723 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-02 13:31:33,728 - Started SellApplication in 5.456 seconds (JVM running for 7.116)
+2019-08-02 13:32:36,187 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-02 13:32:36,188 - Initializing Servlet 'dispatcherServlet'
+2019-08-02 13:32:36,199 - Completed initialization in 11 ms
+2019-08-02 14:00:15,848 - Starting SellApplication on DESKTOP-JU4PEEA with PID 2160 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 14:00:15,851 - No active profile set, falling back to default profiles: default
+2019-08-02 14:00:18,373 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 14:00:18,539 - Finished Spring Data repository scanning in 152ms. Found 2 repository interfaces.
+2019-08-02 14:00:19,092 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1055c8ff] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 14:00:21,457 - Tomcat initialized with port(s): 8080 (http)
+2019-08-02 14:00:21,568 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-02 14:00:21,646 - Starting service [Tomcat]
+2019-08-02 14:00:21,646 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-02 14:00:22,368 - Initializing Spring embedded WebApplicationContext
+2019-08-02 14:00:22,368 - Root WebApplicationContext: initialization completed in 5916 ms
+2019-08-02 14:00:23,737 - HikariPool-1 - Starting...
+2019-08-02 14:00:23,742 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 14:00:24,058 - HikariPool-1 - Start completed.
+2019-08-02 14:00:24,799 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 14:00:26,537 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 14:00:26,561 - HHH000206: hibernate.properties not found
+2019-08-02 14:00:29,901 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 14:00:32,725 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 14:00:37,489 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 14:00:42,366 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-02 14:00:42,919 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-02 14:00:43,768 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-02 14:00:43,837 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-02 14:00:43,865 - Started SellApplication in 28.782 seconds (JVM running for 34.584)
+2019-08-02 14:01:07,208 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-02 14:01:07,210 - Initializing Servlet 'dispatcherServlet'
+2019-08-02 14:01:07,244 - Completed initialization in 34 ms
+2019-08-02 14:01:07,410 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-02 15:27:15,904 - Starting OrderMasterRepositoryTest on DESKTOP-JU4PEEA with PID 7904 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 15:27:15,905 - No active profile set, falling back to default profiles: default
+2019-08-02 15:27:19,160 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 15:27:19,306 - Finished Spring Data repository scanning in 133ms. Found 4 repository interfaces.
+2019-08-02 15:27:20,039 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c56e40e5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 15:27:20,898 - HikariPool-1 - Starting...
+2019-08-02 15:27:20,949 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 15:27:21,926 - HikariPool-1 - Start completed.
+2019-08-02 15:27:22,989 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 15:27:25,535 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 15:27:25,558 - HHH000206: hibernate.properties not found
+2019-08-02 15:27:28,899 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 15:27:31,776 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 15:27:32,153 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not determine type for: javax.xml.crypto.Data, at table: order_master, for columns: [org.hibernate.mapping.Column(create_time)]
+2019-08-02 15:27:32,153 - HikariPool-1 - Shutdown initiated...
+2019-08-02 15:27:32,217 - HikariPool-1 - Shutdown completed.
+2019-08-02 15:27:32,245 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-02 15:31:10,457 - Starting OrderMasterRepositoryTest on DESKTOP-JU4PEEA with PID 1220 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 15:31:10,459 - No active profile set, falling back to default profiles: default
+2019-08-02 15:31:12,343 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 15:31:12,521 - Finished Spring Data repository scanning in 159ms. Found 4 repository interfaces.
+2019-08-02 15:31:13,206 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$92080d45] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 15:31:13,771 - HikariPool-1 - Starting...
+2019-08-02 15:31:13,779 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 15:31:14,123 - HikariPool-1 - Start completed.
+2019-08-02 15:31:14,641 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 15:31:14,888 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 15:31:14,892 - HHH000206: hibernate.properties not found
+2019-08-02 15:31:15,525 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 15:31:16,303 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 15:31:16,636 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not determine type for: javax.xml.crypto.Data, at table: order_master, for columns: [org.hibernate.mapping.Column(create_time)]
+2019-08-02 15:31:16,637 - HikariPool-1 - Shutdown initiated...
+2019-08-02 15:31:16,698 - HikariPool-1 - Shutdown completed.
+2019-08-02 15:31:16,710 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-02 15:31:57,874 - Starting OrderMasterRepositoryTest on DESKTOP-JU4PEEA with PID 11976 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 15:31:57,875 - No active profile set, falling back to default profiles: default
+2019-08-02 15:32:00,415 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 15:32:00,679 - Finished Spring Data repository scanning in 244ms. Found 4 repository interfaces.
+2019-08-02 15:32:01,586 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d2d99a1f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 15:32:01,895 - HikariPool-1 - Starting...
+2019-08-02 15:32:01,903 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 15:32:02,187 - HikariPool-1 - Start completed.
+2019-08-02 15:32:02,336 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 15:32:02,504 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 15:32:02,507 - HHH000206: hibernate.properties not found
+2019-08-02 15:32:02,718 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 15:32:03,327 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 15:32:03,618 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not determine type for: javax.xml.crypto.Data, at table: order_master, for columns: [org.hibernate.mapping.Column(create_time)]
+2019-08-02 15:32:03,619 - HikariPool-1 - Shutdown initiated...
+2019-08-02 15:32:03,635 - HikariPool-1 - Shutdown completed.
+2019-08-02 15:32:03,646 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-02 15:33:15,074 - Starting OrderMasterRepositoryTest on DESKTOP-JU4PEEA with PID 13072 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 15:33:15,076 - No active profile set, falling back to default profiles: default
+2019-08-02 15:33:17,776 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 15:33:18,019 - Finished Spring Data repository scanning in 226ms. Found 4 repository interfaces.
+2019-08-02 15:33:18,852 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$408dcbc9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 15:33:19,233 - HikariPool-1 - Starting...
+2019-08-02 15:33:19,240 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 15:33:19,511 - HikariPool-1 - Start completed.
+2019-08-02 15:33:19,672 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 15:33:19,833 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 15:33:19,836 - HHH000206: hibernate.properties not found
+2019-08-02 15:33:20,106 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 15:33:20,706 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 15:33:21,460 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 15:33:24,181 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-02 15:33:24,363 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-02 15:33:25,236 - Started OrderMasterRepositoryTest in 11.694 seconds (JVM running for 13.522)
+2019-08-02 15:33:26,463 - SQL Error: 1054, SQLState: 42S22
+2019-08-02 15:33:26,467 - HHH000327: Error performing load command : org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+	at org.hibernate.exception.internal.SQLExceptionTypeDelegate.convert(SQLExceptionTypeDelegate.java:63)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:42)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:113)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:99)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:69)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2167)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:1930)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:1892)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:937)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:340)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:310)
+	at org.hibernate.loader.Loader.loadEntity(Loader.java:2281)
+	at org.hibernate.loader.entity.AbstractEntityLoader.load(AbstractEntityLoader.java:64)
+	at org.hibernate.loader.entity.AbstractEntityLoader.load(AbstractEntityLoader.java:54)
+	at org.hibernate.persister.entity.AbstractEntityPersister.load(AbstractEntityPersister.java:4273)
+	at org.hibernate.event.internal.DefaultLoadEventListener.loadFromDatasource(DefaultLoadEventListener.java:511)
+	at org.hibernate.event.internal.DefaultLoadEventListener.doLoad(DefaultLoadEventListener.java:481)
+	at org.hibernate.event.internal.DefaultLoadEventListener.load(DefaultLoadEventListener.java:222)
+	at org.hibernate.event.internal.DefaultLoadEventListener.proxyOrLoad(DefaultLoadEventListener.java:265)
+	at org.hibernate.event.internal.DefaultLoadEventListener.doOnLoad(DefaultLoadEventListener.java:124)
+	at org.hibernate.event.internal.DefaultLoadEventListener.onLoad(DefaultLoadEventListener.java:92)
+	at org.hibernate.internal.SessionImpl.fireLoad(SessionImpl.java:1257)
+	at org.hibernate.internal.SessionImpl.access$2000(SessionImpl.java:208)
+	at org.hibernate.internal.SessionImpl$IdentifierLoadAccessImpl.doLoad(SessionImpl.java:2881)
+	at org.hibernate.internal.SessionImpl$IdentifierLoadAccessImpl.load(SessionImpl.java:2855)
+	at org.hibernate.internal.SessionImpl.get(SessionImpl.java:1098)
+	at org.hibernate.event.internal.DefaultMergeEventListener.entityIsDetached(DefaultMergeEventListener.java:290)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:170)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:69)
+	at org.hibernate.internal.SessionImpl.fireMerge(SessionImpl.java:901)
+	at org.hibernate.internal.SessionImpl.merge(SessionImpl.java:887)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.orm.jpa.SharedEntityManagerCreator$SharedEntityManagerInvocationHandler.invoke(SharedEntityManagerCreator.java:308)
+	at com.sun.proxy.$Proxy87.merge(Unknown Source)
+	at org.springframework.data.jpa.repository.support.SimpleJpaRepository.save(SimpleJpaRepository.java:510)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.data.repository.core.support.RepositoryComposition$RepositoryFragments.invoke(RepositoryComposition.java:359)
+	at org.springframework.data.repository.core.support.RepositoryComposition.invoke(RepositoryComposition.java:200)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$ImplementationMethodExecutionInterceptor.invoke(RepositoryFactorySupport.java:644)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.doInvoke(RepositoryFactorySupport.java:608)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.lambda$invoke$3(RepositoryFactorySupport.java:595)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.invoke(RepositoryFactorySupport.java:595)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:295)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:98)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:138)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:93)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.repository.core.support.SurroundingTransactionDetectorMethodInterceptor.invoke(SurroundingTransactionDetectorMethodInterceptor.java:61)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy100.save(Unknown Source)
+	at com.imooc.sell.repository.OrderMasterRepositoryTest.saveTest(OrderMasterRepositoryTest.java:30)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestExecutionCallbacks.evaluate(RunBeforeTestExecutionCallbacks.java:74)
+	at org.springframework.test.context.junit4.statements.RunAfterTestExecutionCallbacks.evaluate(RunAfterTestExecutionCallbacks.java:84)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:251)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: java.sql.SQLSyntaxErrorException: Unknown column 'ordermaste0_.order_status' in 'field list'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:955)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:1005)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:60)
+	... 91 common frames omitted
+2019-08-02 15:33:26,622 - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-02 15:33:26,624 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 15:33:26,627 - HikariPool-1 - Shutdown initiated...
+2019-08-02 15:33:26,643 - HikariPool-1 - Shutdown completed.
+2019-08-02 15:35:15,504 - Starting OrderMasterRepositoryTest on DESKTOP-JU4PEEA with PID 13060 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 15:35:15,506 - No active profile set, falling back to default profiles: default
+2019-08-02 15:35:18,184 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 15:35:18,450 - Finished Spring Data repository scanning in 234ms. Found 4 repository interfaces.
+2019-08-02 15:35:19,568 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$60b8e840] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 15:35:20,197 - HikariPool-1 - Starting...
+2019-08-02 15:35:20,205 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 15:35:20,594 - HikariPool-1 - Start completed.
+2019-08-02 15:35:20,738 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 15:35:20,873 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 15:35:20,876 - HHH000206: hibernate.properties not found
+2019-08-02 15:35:21,134 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 15:35:21,785 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 15:35:22,139 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not determine type for: javax.xml.crypto.Data, at table: order_master, for columns: [org.hibernate.mapping.Column(create_time)]
+2019-08-02 15:35:22,140 - HikariPool-1 - Shutdown initiated...
+2019-08-02 15:35:22,157 - HikariPool-1 - Shutdown completed.
+2019-08-02 15:35:22,170 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-02 15:39:41,738 - Starting OrderMasterRepositoryTest on DESKTOP-JU4PEEA with PID 7340 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 15:39:41,740 - No active profile set, falling back to default profiles: default
+2019-08-02 15:39:44,154 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 15:39:44,332 - Finished Spring Data repository scanning in 159ms. Found 4 repository interfaces.
+2019-08-02 15:39:45,074 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$60b8e840] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 15:39:45,527 - HikariPool-1 - Starting...
+2019-08-02 15:39:45,534 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 15:39:45,782 - HikariPool-1 - Start completed.
+2019-08-02 15:39:45,956 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 15:39:46,075 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 15:39:46,077 - HHH000206: hibernate.properties not found
+2019-08-02 15:39:46,329 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 15:39:47,355 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 15:39:47,842 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not determine type for: javax.xml.crypto.Data, at table: order_master, for columns: [org.hibernate.mapping.Column(create_time)]
+2019-08-02 15:39:47,843 - HikariPool-1 - Shutdown initiated...
+2019-08-02 15:39:47,864 - HikariPool-1 - Shutdown completed.
+2019-08-02 15:39:47,899 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-02 15:42:55,020 - Starting OrderMasterRepositoryTest on DESKTOP-JU4PEEA with PID 12708 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 15:42:55,023 - No active profile set, falling back to default profiles: default
+2019-08-02 15:42:57,406 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 15:42:57,640 - Finished Spring Data repository scanning in 202ms. Found 4 repository interfaces.
+2019-08-02 15:42:58,657 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$60b8e840] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 15:42:59,037 - HikariPool-1 - Starting...
+2019-08-02 15:42:59,045 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 15:42:59,361 - HikariPool-1 - Start completed.
+2019-08-02 15:42:59,506 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 15:42:59,645 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 15:42:59,648 - HHH000206: hibernate.properties not found
+2019-08-02 15:42:59,915 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 15:43:00,567 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 15:43:01,311 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 15:43:03,090 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-02 15:43:03,218 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-02 15:43:04,212 - Started OrderMasterRepositoryTest in 10.735 seconds (JVM running for 12.683)
+2019-08-02 15:43:05,042 - SQL Error: 1054, SQLState: 42S22
+2019-08-02 15:43:05,047 - HHH000327: Error performing load command : org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+	at org.hibernate.exception.internal.SQLExceptionTypeDelegate.convert(SQLExceptionTypeDelegate.java:63)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:42)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:113)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:99)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:69)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2167)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:1930)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:1892)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:937)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:340)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:310)
+	at org.hibernate.loader.Loader.loadEntity(Loader.java:2281)
+	at org.hibernate.loader.entity.AbstractEntityLoader.load(AbstractEntityLoader.java:64)
+	at org.hibernate.loader.entity.AbstractEntityLoader.load(AbstractEntityLoader.java:54)
+	at org.hibernate.persister.entity.AbstractEntityPersister.load(AbstractEntityPersister.java:4273)
+	at org.hibernate.event.internal.DefaultLoadEventListener.loadFromDatasource(DefaultLoadEventListener.java:511)
+	at org.hibernate.event.internal.DefaultLoadEventListener.doLoad(DefaultLoadEventListener.java:481)
+	at org.hibernate.event.internal.DefaultLoadEventListener.load(DefaultLoadEventListener.java:222)
+	at org.hibernate.event.internal.DefaultLoadEventListener.proxyOrLoad(DefaultLoadEventListener.java:265)
+	at org.hibernate.event.internal.DefaultLoadEventListener.doOnLoad(DefaultLoadEventListener.java:124)
+	at org.hibernate.event.internal.DefaultLoadEventListener.onLoad(DefaultLoadEventListener.java:92)
+	at org.hibernate.internal.SessionImpl.fireLoad(SessionImpl.java:1257)
+	at org.hibernate.internal.SessionImpl.access$2000(SessionImpl.java:208)
+	at org.hibernate.internal.SessionImpl$IdentifierLoadAccessImpl.doLoad(SessionImpl.java:2881)
+	at org.hibernate.internal.SessionImpl$IdentifierLoadAccessImpl.load(SessionImpl.java:2855)
+	at org.hibernate.internal.SessionImpl.get(SessionImpl.java:1098)
+	at org.hibernate.event.internal.DefaultMergeEventListener.entityIsDetached(DefaultMergeEventListener.java:290)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:170)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:69)
+	at org.hibernate.internal.SessionImpl.fireMerge(SessionImpl.java:901)
+	at org.hibernate.internal.SessionImpl.merge(SessionImpl.java:887)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.orm.jpa.SharedEntityManagerCreator$SharedEntityManagerInvocationHandler.invoke(SharedEntityManagerCreator.java:308)
+	at com.sun.proxy.$Proxy87.merge(Unknown Source)
+	at org.springframework.data.jpa.repository.support.SimpleJpaRepository.save(SimpleJpaRepository.java:510)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.data.repository.core.support.RepositoryComposition$RepositoryFragments.invoke(RepositoryComposition.java:359)
+	at org.springframework.data.repository.core.support.RepositoryComposition.invoke(RepositoryComposition.java:200)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$ImplementationMethodExecutionInterceptor.invoke(RepositoryFactorySupport.java:644)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.doInvoke(RepositoryFactorySupport.java:608)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.lambda$invoke$3(RepositoryFactorySupport.java:595)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.invoke(RepositoryFactorySupport.java:595)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:295)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:98)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:138)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:93)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.repository.core.support.SurroundingTransactionDetectorMethodInterceptor.invoke(SurroundingTransactionDetectorMethodInterceptor.java:61)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy99.save(Unknown Source)
+	at com.imooc.sell.repository.OrderMasterRepositoryTest.saveTest(OrderMasterRepositoryTest.java:30)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestExecutionCallbacks.evaluate(RunBeforeTestExecutionCallbacks.java:74)
+	at org.springframework.test.context.junit4.statements.RunAfterTestExecutionCallbacks.evaluate(RunAfterTestExecutionCallbacks.java:84)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:251)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: java.sql.SQLSyntaxErrorException: Unknown column 'ordermaste0_.order_status' in 'field list'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:955)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:1005)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:60)
+	... 91 common frames omitted
+2019-08-02 15:43:05,181 - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-02 15:43:05,191 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 15:43:05,214 - HikariPool-1 - Shutdown initiated...
+2019-08-02 15:43:05,272 - HikariPool-1 - Shutdown completed.
+2019-08-02 15:44:43,873 - Starting OrderMasterRepositoryTest on DESKTOP-JU4PEEA with PID 12620 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 15:44:43,875 - No active profile set, falling back to default profiles: default
+2019-08-02 15:44:46,645 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 15:44:46,861 - Finished Spring Data repository scanning in 200ms. Found 4 repository interfaces.
+2019-08-02 15:44:47,916 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ac4dad47] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 15:44:48,304 - HikariPool-1 - Starting...
+2019-08-02 15:44:48,313 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 15:44:48,628 - HikariPool-1 - Start completed.
+2019-08-02 15:44:48,778 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 15:44:48,915 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 15:44:48,918 - HHH000206: hibernate.properties not found
+2019-08-02 15:44:49,194 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 15:44:49,884 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 15:44:50,564 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 15:44:52,195 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-02 15:44:52,282 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-02 15:44:53,295 - Started OrderMasterRepositoryTest in 10.826 seconds (JVM running for 12.69)
+2019-08-02 15:44:54,057 - SQL Error: 1054, SQLState: 42S22
+2019-08-02 15:44:54,063 - HHH000327: Error performing load command : org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+	at org.hibernate.exception.internal.SQLExceptionTypeDelegate.convert(SQLExceptionTypeDelegate.java:63)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:42)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:113)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:99)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:69)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2167)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:1930)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:1892)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:937)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:340)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:310)
+	at org.hibernate.loader.Loader.loadEntity(Loader.java:2281)
+	at org.hibernate.loader.entity.AbstractEntityLoader.load(AbstractEntityLoader.java:64)
+	at org.hibernate.loader.entity.AbstractEntityLoader.load(AbstractEntityLoader.java:54)
+	at org.hibernate.persister.entity.AbstractEntityPersister.load(AbstractEntityPersister.java:4273)
+	at org.hibernate.event.internal.DefaultLoadEventListener.loadFromDatasource(DefaultLoadEventListener.java:511)
+	at org.hibernate.event.internal.DefaultLoadEventListener.doLoad(DefaultLoadEventListener.java:481)
+	at org.hibernate.event.internal.DefaultLoadEventListener.load(DefaultLoadEventListener.java:222)
+	at org.hibernate.event.internal.DefaultLoadEventListener.proxyOrLoad(DefaultLoadEventListener.java:265)
+	at org.hibernate.event.internal.DefaultLoadEventListener.doOnLoad(DefaultLoadEventListener.java:124)
+	at org.hibernate.event.internal.DefaultLoadEventListener.onLoad(DefaultLoadEventListener.java:92)
+	at org.hibernate.internal.SessionImpl.fireLoad(SessionImpl.java:1257)
+	at org.hibernate.internal.SessionImpl.access$2000(SessionImpl.java:208)
+	at org.hibernate.internal.SessionImpl$IdentifierLoadAccessImpl.doLoad(SessionImpl.java:2881)
+	at org.hibernate.internal.SessionImpl$IdentifierLoadAccessImpl.load(SessionImpl.java:2855)
+	at org.hibernate.internal.SessionImpl.get(SessionImpl.java:1098)
+	at org.hibernate.event.internal.DefaultMergeEventListener.entityIsDetached(DefaultMergeEventListener.java:290)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:170)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:69)
+	at org.hibernate.internal.SessionImpl.fireMerge(SessionImpl.java:901)
+	at org.hibernate.internal.SessionImpl.merge(SessionImpl.java:887)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.orm.jpa.SharedEntityManagerCreator$SharedEntityManagerInvocationHandler.invoke(SharedEntityManagerCreator.java:308)
+	at com.sun.proxy.$Proxy87.merge(Unknown Source)
+	at org.springframework.data.jpa.repository.support.SimpleJpaRepository.save(SimpleJpaRepository.java:510)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.data.repository.core.support.RepositoryComposition$RepositoryFragments.invoke(RepositoryComposition.java:359)
+	at org.springframework.data.repository.core.support.RepositoryComposition.invoke(RepositoryComposition.java:200)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$ImplementationMethodExecutionInterceptor.invoke(RepositoryFactorySupport.java:644)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.doInvoke(RepositoryFactorySupport.java:608)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.lambda$invoke$3(RepositoryFactorySupport.java:595)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.invoke(RepositoryFactorySupport.java:595)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:295)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:98)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:138)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:93)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.repository.core.support.SurroundingTransactionDetectorMethodInterceptor.invoke(SurroundingTransactionDetectorMethodInterceptor.java:61)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy100.save(Unknown Source)
+	at com.imooc.sell.repository.OrderMasterRepositoryTest.saveTest(OrderMasterRepositoryTest.java:30)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestExecutionCallbacks.evaluate(RunBeforeTestExecutionCallbacks.java:74)
+	at org.springframework.test.context.junit4.statements.RunAfterTestExecutionCallbacks.evaluate(RunAfterTestExecutionCallbacks.java:84)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:251)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: java.sql.SQLSyntaxErrorException: Unknown column 'ordermaste0_.order_status' in 'field list'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:955)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:1005)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:60)
+	... 91 common frames omitted
+2019-08-02 15:44:54,106 - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-02 15:44:54,110 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 15:44:54,114 - HikariPool-1 - Shutdown initiated...
+2019-08-02 15:44:54,136 - HikariPool-1 - Shutdown completed.
+2019-08-02 15:46:38,007 - Starting OrderMasterRepositoryTest on DESKTOP-JU4PEEA with PID 8888 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 15:46:38,009 - No active profile set, falling back to default profiles: default
+2019-08-02 15:46:40,694 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 15:46:40,958 - Finished Spring Data repository scanning in 245ms. Found 4 repository interfaces.
+2019-08-02 15:46:42,600 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$375c196a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 15:46:43,068 - HikariPool-1 - Starting...
+2019-08-02 15:46:43,073 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 15:46:43,310 - HikariPool-1 - Start completed.
+2019-08-02 15:46:43,450 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 15:46:43,605 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 15:46:43,607 - HHH000206: hibernate.properties not found
+2019-08-02 15:46:43,902 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 15:46:44,660 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 15:46:45,075 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not determine type for: javax.xml.crypto.Data, at table: order_master, for columns: [org.hibernate.mapping.Column(create_time)]
+2019-08-02 15:46:45,076 - HikariPool-1 - Shutdown initiated...
+2019-08-02 15:46:45,096 - HikariPool-1 - Shutdown completed.
+2019-08-02 15:46:45,119 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-02 15:51:01,686 - Starting OrderMasterRepositoryTest on DESKTOP-JU4PEEA with PID 13180 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 15:51:01,688 - No active profile set, falling back to default profiles: default
+2019-08-02 15:51:04,294 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 15:51:04,566 - Finished Spring Data repository scanning in 243ms. Found 4 repository interfaces.
+2019-08-02 15:51:05,606 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$b62d99bc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 15:51:06,402 - HikariPool-1 - Starting...
+2019-08-02 15:51:06,408 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 15:51:06,833 - HikariPool-1 - Start completed.
+2019-08-02 15:51:07,196 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 15:51:07,418 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 15:51:07,421 - HHH000206: hibernate.properties not found
+2019-08-02 15:51:08,027 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 15:51:09,055 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 15:51:09,894 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 15:51:12,971 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-02 15:51:13,126 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-02 15:51:13,703 - Started OrderMasterRepositoryTest in 13.272 seconds (JVM running for 15.15)
+2019-08-02 15:51:14,703 - SQL Error: 1054, SQLState: 42S22
+2019-08-02 15:51:14,720 - HHH000327: Error performing load command : org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+	at org.hibernate.exception.internal.SQLExceptionTypeDelegate.convert(SQLExceptionTypeDelegate.java:63)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:42)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:113)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:99)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:69)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2167)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:1930)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:1892)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:937)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:340)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:310)
+	at org.hibernate.loader.Loader.loadEntity(Loader.java:2281)
+	at org.hibernate.loader.entity.AbstractEntityLoader.load(AbstractEntityLoader.java:64)
+	at org.hibernate.loader.entity.AbstractEntityLoader.load(AbstractEntityLoader.java:54)
+	at org.hibernate.persister.entity.AbstractEntityPersister.load(AbstractEntityPersister.java:4273)
+	at org.hibernate.event.internal.DefaultLoadEventListener.loadFromDatasource(DefaultLoadEventListener.java:511)
+	at org.hibernate.event.internal.DefaultLoadEventListener.doLoad(DefaultLoadEventListener.java:481)
+	at org.hibernate.event.internal.DefaultLoadEventListener.load(DefaultLoadEventListener.java:222)
+	at org.hibernate.event.internal.DefaultLoadEventListener.proxyOrLoad(DefaultLoadEventListener.java:265)
+	at org.hibernate.event.internal.DefaultLoadEventListener.doOnLoad(DefaultLoadEventListener.java:124)
+	at org.hibernate.event.internal.DefaultLoadEventListener.onLoad(DefaultLoadEventListener.java:92)
+	at org.hibernate.internal.SessionImpl.fireLoad(SessionImpl.java:1257)
+	at org.hibernate.internal.SessionImpl.access$2000(SessionImpl.java:208)
+	at org.hibernate.internal.SessionImpl$IdentifierLoadAccessImpl.doLoad(SessionImpl.java:2881)
+	at org.hibernate.internal.SessionImpl$IdentifierLoadAccessImpl.load(SessionImpl.java:2855)
+	at org.hibernate.internal.SessionImpl.get(SessionImpl.java:1098)
+	at org.hibernate.event.internal.DefaultMergeEventListener.entityIsDetached(DefaultMergeEventListener.java:290)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:170)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:69)
+	at org.hibernate.internal.SessionImpl.fireMerge(SessionImpl.java:901)
+	at org.hibernate.internal.SessionImpl.merge(SessionImpl.java:887)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.orm.jpa.SharedEntityManagerCreator$SharedEntityManagerInvocationHandler.invoke(SharedEntityManagerCreator.java:308)
+	at com.sun.proxy.$Proxy87.merge(Unknown Source)
+	at org.springframework.data.jpa.repository.support.SimpleJpaRepository.save(SimpleJpaRepository.java:510)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.data.repository.core.support.RepositoryComposition$RepositoryFragments.invoke(RepositoryComposition.java:359)
+	at org.springframework.data.repository.core.support.RepositoryComposition.invoke(RepositoryComposition.java:200)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$ImplementationMethodExecutionInterceptor.invoke(RepositoryFactorySupport.java:644)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.doInvoke(RepositoryFactorySupport.java:608)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.lambda$invoke$3(RepositoryFactorySupport.java:595)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.invoke(RepositoryFactorySupport.java:595)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:295)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:98)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:138)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:93)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.repository.core.support.SurroundingTransactionDetectorMethodInterceptor.invoke(SurroundingTransactionDetectorMethodInterceptor.java:61)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy99.save(Unknown Source)
+	at com.imooc.sell.repository.OrderMasterRepositoryTest.saveTest(OrderMasterRepositoryTest.java:30)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestExecutionCallbacks.evaluate(RunBeforeTestExecutionCallbacks.java:74)
+	at org.springframework.test.context.junit4.statements.RunAfterTestExecutionCallbacks.evaluate(RunAfterTestExecutionCallbacks.java:84)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:251)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: java.sql.SQLSyntaxErrorException: Unknown column 'ordermaste0_.order_status' in 'field list'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:955)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:1005)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:60)
+	... 91 common frames omitted
+2019-08-02 15:51:14,774 - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-02 15:51:14,777 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 15:51:14,780 - HikariPool-1 - Shutdown initiated...
+2019-08-02 15:51:14,828 - HikariPool-1 - Shutdown completed.
+2019-08-02 15:59:53,367 - Starting OrderMasterRepositoryTest on DESKTOP-JU4PEEA with PID 11656 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 15:59:53,369 - No active profile set, falling back to default profiles: default
+2019-08-02 15:59:56,063 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 15:59:56,589 - Finished Spring Data repository scanning in 512ms. Found 4 repository interfaces.
+2019-08-02 15:59:57,805 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$de0eec6f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 15:59:59,463 - HikariPool-1 - Starting...
+2019-08-02 15:59:59,469 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 16:00:01,708 - HikariPool-1 - Start completed.
+2019-08-02 16:00:02,601 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 16:00:03,727 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 16:00:03,753 - HHH000206: hibernate.properties not found
+2019-08-02 16:00:06,610 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 16:00:08,450 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 16:00:09,827 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not determine type for: javax.xml.crypto.Data, at table: order_master, for columns: [org.hibernate.mapping.Column(create_time)]
+2019-08-02 16:00:09,828 - HikariPool-1 - Shutdown initiated...
+2019-08-02 16:00:10,099 - HikariPool-1 - Shutdown completed.
+2019-08-02 16:00:10,107 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-02 16:03:03,125 - Starting OrderMasterRepositoryTest on DESKTOP-JU4PEEA with PID 13020 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 16:03:03,126 - No active profile set, falling back to default profiles: default
+2019-08-02 16:03:05,392 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 16:03:05,582 - Finished Spring Data repository scanning in 170ms. Found 4 repository interfaces.
+2019-08-02 16:03:06,353 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a70389ec] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 16:03:06,764 - HikariPool-1 - Starting...
+2019-08-02 16:03:06,771 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 16:03:07,009 - HikariPool-1 - Start completed.
+2019-08-02 16:03:07,167 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 16:03:07,302 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 16:03:07,304 - HHH000206: hibernate.properties not found
+2019-08-02 16:03:07,536 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 16:03:08,245 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 16:03:08,534 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not determine type for: lombok.Data, at table: order_master, for columns: [org.hibernate.mapping.Column(create_time)]
+2019-08-02 16:03:08,534 - HikariPool-1 - Shutdown initiated...
+2019-08-02 16:03:08,547 - HikariPool-1 - Shutdown completed.
+2019-08-02 16:03:08,562 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-02 16:03:42,478 - Starting OrderMasterRepositoryTest on DESKTOP-JU4PEEA with PID 13104 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 16:03:42,480 - No active profile set, falling back to default profiles: default
+2019-08-02 16:03:46,044 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 16:03:46,279 - Finished Spring Data repository scanning in 202ms. Found 4 repository interfaces.
+2019-08-02 16:03:47,442 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ac4dad47] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 16:03:47,854 - HikariPool-1 - Starting...
+2019-08-02 16:03:47,860 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 16:03:48,162 - HikariPool-1 - Start completed.
+2019-08-02 16:03:48,294 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 16:03:48,437 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 16:03:48,440 - HHH000206: hibernate.properties not found
+2019-08-02 16:03:48,675 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 16:03:49,362 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 16:03:50,249 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 16:03:52,504 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-02 16:03:52,714 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-02 16:03:53,914 - Started OrderMasterRepositoryTest in 12.808 seconds (JVM running for 14.757)
+2019-08-02 16:03:55,158 - SQL Error: 1054, SQLState: 42S22
+2019-08-02 16:03:55,163 - HHH000327: Error performing load command : org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+	at org.hibernate.exception.internal.SQLExceptionTypeDelegate.convert(SQLExceptionTypeDelegate.java:63)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:42)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:113)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:99)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:69)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2167)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:1930)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:1892)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:937)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:340)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:310)
+	at org.hibernate.loader.Loader.loadEntity(Loader.java:2281)
+	at org.hibernate.loader.entity.AbstractEntityLoader.load(AbstractEntityLoader.java:64)
+	at org.hibernate.loader.entity.AbstractEntityLoader.load(AbstractEntityLoader.java:54)
+	at org.hibernate.persister.entity.AbstractEntityPersister.load(AbstractEntityPersister.java:4273)
+	at org.hibernate.event.internal.DefaultLoadEventListener.loadFromDatasource(DefaultLoadEventListener.java:511)
+	at org.hibernate.event.internal.DefaultLoadEventListener.doLoad(DefaultLoadEventListener.java:481)
+	at org.hibernate.event.internal.DefaultLoadEventListener.load(DefaultLoadEventListener.java:222)
+	at org.hibernate.event.internal.DefaultLoadEventListener.proxyOrLoad(DefaultLoadEventListener.java:265)
+	at org.hibernate.event.internal.DefaultLoadEventListener.doOnLoad(DefaultLoadEventListener.java:124)
+	at org.hibernate.event.internal.DefaultLoadEventListener.onLoad(DefaultLoadEventListener.java:92)
+	at org.hibernate.internal.SessionImpl.fireLoad(SessionImpl.java:1257)
+	at org.hibernate.internal.SessionImpl.access$2000(SessionImpl.java:208)
+	at org.hibernate.internal.SessionImpl$IdentifierLoadAccessImpl.doLoad(SessionImpl.java:2881)
+	at org.hibernate.internal.SessionImpl$IdentifierLoadAccessImpl.load(SessionImpl.java:2855)
+	at org.hibernate.internal.SessionImpl.get(SessionImpl.java:1098)
+	at org.hibernate.event.internal.DefaultMergeEventListener.entityIsDetached(DefaultMergeEventListener.java:290)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:170)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:69)
+	at org.hibernate.internal.SessionImpl.fireMerge(SessionImpl.java:901)
+	at org.hibernate.internal.SessionImpl.merge(SessionImpl.java:887)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.orm.jpa.SharedEntityManagerCreator$SharedEntityManagerInvocationHandler.invoke(SharedEntityManagerCreator.java:308)
+	at com.sun.proxy.$Proxy87.merge(Unknown Source)
+	at org.springframework.data.jpa.repository.support.SimpleJpaRepository.save(SimpleJpaRepository.java:510)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.data.repository.core.support.RepositoryComposition$RepositoryFragments.invoke(RepositoryComposition.java:359)
+	at org.springframework.data.repository.core.support.RepositoryComposition.invoke(RepositoryComposition.java:200)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$ImplementationMethodExecutionInterceptor.invoke(RepositoryFactorySupport.java:644)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.doInvoke(RepositoryFactorySupport.java:608)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.lambda$invoke$3(RepositoryFactorySupport.java:595)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.invoke(RepositoryFactorySupport.java:595)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:295)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:98)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:138)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:93)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.repository.core.support.SurroundingTransactionDetectorMethodInterceptor.invoke(SurroundingTransactionDetectorMethodInterceptor.java:61)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy100.save(Unknown Source)
+	at com.imooc.sell.repository.OrderMasterRepositoryTest.saveTest(OrderMasterRepositoryTest.java:34)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestExecutionCallbacks.evaluate(RunBeforeTestExecutionCallbacks.java:74)
+	at org.springframework.test.context.junit4.statements.RunAfterTestExecutionCallbacks.evaluate(RunAfterTestExecutionCallbacks.java:84)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:251)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: java.sql.SQLSyntaxErrorException: Unknown column 'ordermaste0_.order_status' in 'field list'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:955)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:1005)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:60)
+	... 91 common frames omitted
+2019-08-02 16:03:55,217 - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-02 16:03:55,219 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 16:03:55,223 - HikariPool-1 - Shutdown initiated...
+2019-08-02 16:03:55,246 - HikariPool-1 - Shutdown completed.
+2019-08-02 16:04:35,121 - Starting OrderMasterRepositoryTest on DESKTOP-JU4PEEA with PID 11636 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 16:04:35,125 - No active profile set, falling back to default profiles: default
+2019-08-02 16:04:37,385 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 16:04:37,551 - Finished Spring Data repository scanning in 151ms. Found 4 repository interfaces.
+2019-08-02 16:04:38,259 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ddda97c8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 16:04:38,673 - HikariPool-1 - Starting...
+2019-08-02 16:04:38,683 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 16:04:39,017 - HikariPool-1 - Start completed.
+2019-08-02 16:04:39,280 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 16:04:39,515 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 16:04:39,520 - HHH000206: hibernate.properties not found
+2019-08-02 16:04:39,995 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 16:04:41,041 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 16:04:41,662 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 16:04:43,238 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-02 16:04:43,314 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-02 16:04:43,767 - Started OrderMasterRepositoryTest in 10.115 seconds (JVM running for 12.66)
+2019-08-02 16:04:44,128 - SQL Error: 1054, SQLState: 42S22
+2019-08-02 16:04:44,133 - HHH000327: Error performing load command : org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+	at org.hibernate.exception.internal.SQLExceptionTypeDelegate.convert(SQLExceptionTypeDelegate.java:63)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:42)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:113)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:99)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:69)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2167)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:1930)
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:1892)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:937)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:340)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:310)
+	at org.hibernate.loader.Loader.loadEntity(Loader.java:2281)
+	at org.hibernate.loader.entity.AbstractEntityLoader.load(AbstractEntityLoader.java:64)
+	at org.hibernate.loader.entity.AbstractEntityLoader.load(AbstractEntityLoader.java:54)
+	at org.hibernate.persister.entity.AbstractEntityPersister.load(AbstractEntityPersister.java:4273)
+	at org.hibernate.event.internal.DefaultLoadEventListener.loadFromDatasource(DefaultLoadEventListener.java:511)
+	at org.hibernate.event.internal.DefaultLoadEventListener.doLoad(DefaultLoadEventListener.java:481)
+	at org.hibernate.event.internal.DefaultLoadEventListener.load(DefaultLoadEventListener.java:222)
+	at org.hibernate.event.internal.DefaultLoadEventListener.proxyOrLoad(DefaultLoadEventListener.java:265)
+	at org.hibernate.event.internal.DefaultLoadEventListener.doOnLoad(DefaultLoadEventListener.java:124)
+	at org.hibernate.event.internal.DefaultLoadEventListener.onLoad(DefaultLoadEventListener.java:92)
+	at org.hibernate.internal.SessionImpl.fireLoad(SessionImpl.java:1257)
+	at org.hibernate.internal.SessionImpl.access$2000(SessionImpl.java:208)
+	at org.hibernate.internal.SessionImpl$IdentifierLoadAccessImpl.doLoad(SessionImpl.java:2881)
+	at org.hibernate.internal.SessionImpl$IdentifierLoadAccessImpl.load(SessionImpl.java:2855)
+	at org.hibernate.internal.SessionImpl.get(SessionImpl.java:1098)
+	at org.hibernate.event.internal.DefaultMergeEventListener.entityIsDetached(DefaultMergeEventListener.java:290)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:170)
+	at org.hibernate.event.internal.DefaultMergeEventListener.onMerge(DefaultMergeEventListener.java:69)
+	at org.hibernate.internal.SessionImpl.fireMerge(SessionImpl.java:901)
+	at org.hibernate.internal.SessionImpl.merge(SessionImpl.java:887)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.orm.jpa.SharedEntityManagerCreator$SharedEntityManagerInvocationHandler.invoke(SharedEntityManagerCreator.java:308)
+	at com.sun.proxy.$Proxy87.merge(Unknown Source)
+	at org.springframework.data.jpa.repository.support.SimpleJpaRepository.save(SimpleJpaRepository.java:510)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.data.repository.core.support.RepositoryComposition$RepositoryFragments.invoke(RepositoryComposition.java:359)
+	at org.springframework.data.repository.core.support.RepositoryComposition.invoke(RepositoryComposition.java:200)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$ImplementationMethodExecutionInterceptor.invoke(RepositoryFactorySupport.java:644)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.doInvoke(RepositoryFactorySupport.java:608)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.lambda$invoke$3(RepositoryFactorySupport.java:595)
+	at org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.invoke(RepositoryFactorySupport.java:595)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:59)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:295)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:98)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:138)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:93)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.repository.core.support.SurroundingTransactionDetectorMethodInterceptor.invoke(SurroundingTransactionDetectorMethodInterceptor.java:61)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy99.save(Unknown Source)
+	at com.imooc.sell.repository.OrderMasterRepositoryTest.saveTest(OrderMasterRepositoryTest.java:34)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestExecutionCallbacks.evaluate(RunBeforeTestExecutionCallbacks.java:74)
+	at org.springframework.test.context.junit4.statements.RunAfterTestExecutionCallbacks.evaluate(RunAfterTestExecutionCallbacks.java:84)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:251)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+Caused by: java.sql.SQLSyntaxErrorException: Unknown column 'ordermaste0_.order_status' in 'field list'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:955)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:1005)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:60)
+	... 91 common frames omitted
+2019-08-02 16:04:44,177 - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-02 16:04:44,180 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-08-02 16:04:44,182 - HikariPool-1 - Shutdown initiated...
+2019-08-02 16:04:44,196 - HikariPool-1 - Shutdown completed.
+2019-08-02 16:06:08,824 - Starting OrderMasterRepositoryTest on DESKTOP-JU4PEEA with PID 5072 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-02 16:06:08,829 - No active profile set, falling back to default profiles: default
+2019-08-02 16:06:11,602 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-02 16:06:11,856 - Finished Spring Data repository scanning in 237ms. Found 4 repository interfaces.
+2019-08-02 16:06:12,885 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c56e40e5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-02 16:06:13,275 - HikariPool-1 - Starting...
+2019-08-02 16:06:13,282 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-02 16:06:13,555 - HikariPool-1 - Start completed.
+2019-08-02 16:06:13,715 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-02 16:06:13,894 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-02 16:06:13,896 - HHH000206: hibernate.properties not found
+2019-08-02 16:06:14,148 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-02 16:06:14,814 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-02 16:06:15,145 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not determine type for: javax.xml.crypto.Data, at table: order_master, for columns: [org.hibernate.mapping.Column(create_time)]
+2019-08-02 16:06:15,146 - HikariPool-1 - Shutdown initiated...
+2019-08-02 16:06:15,159 - HikariPool-1 - Shutdown completed.
+2019-08-02 16:06:15,172 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.

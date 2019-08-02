@@ -1,0 +1,8 @@
+2019-07-30 10:33:20.647 debug 13744 --- [main] com.imooc.sell.LoggerTest                : Starting LoggerTest on DESKTOP-JU4PEEA with PID 13744 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-07-30 10:33:20.649 debug 13744 --- [main] com.imooc.sell.LoggerTest                : No active profile set, falling back to default profiles: default
+2019-07-30 10:33:25.331 debug 13744 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-30 10:33:26.317 debug 13744 --- [main] com.imooc.sell.LoggerTest                : Started LoggerTest in 6.454 seconds (JVM running for 8.338)
+2019-07-30 10:33:26.825 debug 13744 --- [main] com.imooc.sell.LoggerTest                : info.....
+2019-07-30 10:33:26.827 debug 13744 --- [main] com.imooc.sell.LoggerTest                : name:imooc,password:123456
+2019-07-30 10:33:26.830 debug 13744 --- [main] com.imooc.sell.LoggerTest                : error.....
+2019-07-30 10:33:26.876 debug 13744 --- [Thread-1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
