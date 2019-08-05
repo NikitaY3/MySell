@@ -1,0 +1,333 @@
+2019-08-05 09:30:18,205 - Starting SellApplication on DESKTOP-JU4PEEA with PID 11384 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-05 09:30:18,234 - No active profile set, falling back to default profiles: default
+2019-08-05 09:30:26,095 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-05 09:30:26,844 - Finished Spring Data repository scanning in 372ms. Found 4 repository interfaces.
+2019-08-05 09:30:28,306 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5809ca9a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 09:30:32,971 - Tomcat initialized with port(s): 8080 (http)
+2019-08-05 09:30:33,095 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-05 09:30:33,148 - Starting service [Tomcat]
+2019-08-05 09:30:33,148 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-05 09:30:35,763 - Initializing Spring embedded WebApplicationContext
+2019-08-05 09:30:35,763 - Root WebApplicationContext: initialization completed in 16772 ms
+2019-08-05 09:30:37,507 - HikariPool-1 - Starting...
+2019-08-05 09:30:37,521 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-05 09:30:40,286 - HikariPool-1 - Start completed.
+2019-08-05 09:30:41,601 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-05 09:30:44,485 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-05 09:30:44,513 - HHH000206: hibernate.properties not found
+2019-08-05 09:30:50,968 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-05 09:30:55,226 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-05 09:31:01,098 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-05 09:31:02,570 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-05 09:31:02,635 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-05 09:31:03,204 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-05 09:31:03,297 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-05 09:31:03,302 - Started SellApplication in 55.169 seconds (JVM running for 65.841)
+2019-08-05 11:57:20,133 - Starting SellApplication on DESKTOP-JU4PEEA with PID 12384 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-05 11:57:20,356 - No active profile set, falling back to default profiles: default
+2019-08-05 11:57:28,609 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-05 11:57:29,245 - Finished Spring Data repository scanning in 390ms. Found 4 repository interfaces.
+2019-08-05 11:57:30,465 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ab58b640] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 11:57:32,615 - Tomcat initialized with port(s): 8080 (http)
+2019-08-05 11:57:32,685 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-05 11:57:32,727 - Starting service [Tomcat]
+2019-08-05 11:57:32,727 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-05 11:57:33,347 - Initializing Spring embedded WebApplicationContext
+2019-08-05 11:57:33,348 - Root WebApplicationContext: initialization completed in 12177 ms
+2019-08-05 11:57:34,113 - HikariPool-1 - Starting...
+2019-08-05 11:57:34,117 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-05 11:57:34,299 - HikariPool-1 - Start completed.
+2019-08-05 11:57:34,588 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-05 11:57:34,690 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-05 11:57:34,714 - HHH000206: hibernate.properties not found
+2019-08-05 11:57:35,165 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-05 11:57:35,586 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-05 11:57:36,298 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-05 11:57:37,416 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-05 11:57:37,481 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-05 11:57:37,925 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-05 11:57:37,975 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-05 11:57:37,979 - Started SellApplication in 23.245 seconds (JVM running for 29.777)
+2019-08-05 13:02:32,212 - Starting SellApplication on DESKTOP-JU4PEEA with PID 8180 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-05 13:02:32,218 - No active profile set, falling back to default profiles: default
+2019-08-05 13:02:38,269 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-05 13:02:38,373 - Finished Spring Data repository scanning in 93ms. Found 4 repository interfaces.
+2019-08-05 13:02:38,712 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f2c3f7b6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 13:02:42,978 - Tomcat initialized with port(s): 8080 (http)
+2019-08-05 13:02:43,092 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-05 13:02:43,107 - Starting service [Tomcat]
+2019-08-05 13:02:43,107 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-05 13:02:46,045 - Initializing Spring embedded WebApplicationContext
+2019-08-05 13:02:46,046 - Root WebApplicationContext: initialization completed in 13769 ms
+2019-08-05 13:02:46,590 - HikariPool-1 - Starting...
+2019-08-05 13:02:46,593 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-05 13:02:46,864 - HikariPool-1 - Start completed.
+2019-08-05 13:02:47,657 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-05 13:02:48,500 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-05 13:02:48,527 - HHH000206: hibernate.properties not found
+2019-08-05 13:02:51,013 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-05 13:02:51,680 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-05 13:02:52,317 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-05 13:02:53,006 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-05 13:02:53,038 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-05 13:02:53,282 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-05 13:02:53,308 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-05 13:02:53,312 - Started SellApplication in 21.884 seconds (JVM running for 24.904)
+2019-08-05 13:37:27,986 - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:468)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:294)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-08-05 13:39:27,553 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-05 13:39:27,618 - Initializing Servlet 'dispatcherServlet'
+2019-08-05 13:39:30,488 - Completed initialization in 2798 ms
+2019-08-05 13:45:48,261 - Starting SellApplication on DESKTOP-JU4PEEA with PID 7104 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-05 13:45:48,298 - No active profile set, falling back to default profiles: default
+2019-08-05 13:45:54,818 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-05 13:45:56,101 - Finished Spring Data repository scanning in 762ms. Found 4 repository interfaces.
+2019-08-05 13:45:57,646 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$53763105] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 13:46:05,339 - Tomcat initialized with port(s): 8080 (http)
+2019-08-05 13:46:05,496 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-05 13:46:05,560 - Starting service [Tomcat]
+2019-08-05 13:46:05,561 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-05 13:46:11,021 - Initializing Spring embedded WebApplicationContext
+2019-08-05 13:46:11,021 - Root WebApplicationContext: initialization completed in 22139 ms
+2019-08-05 13:46:12,464 - HikariPool-1 - Starting...
+2019-08-05 13:46:12,467 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-05 13:46:14,141 - HikariPool-1 - Start completed.
+2019-08-05 13:46:15,265 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-05 13:46:17,016 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-05 13:46:17,045 - HHH000206: hibernate.properties not found
+2019-08-05 13:46:21,014 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-05 13:46:23,053 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-05 13:46:25,010 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-05 13:46:26,992 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-05 13:46:27,045 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-05 13:46:27,531 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-05 13:46:27,640 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-05 13:46:27,687 - Started SellApplication in 44.493 seconds (JVM running for 56.32)
+2019-08-05 13:46:47,108 - Starting SellApplication on DESKTOP-JU4PEEA with PID 12096 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-05 13:46:47,129 - No active profile set, falling back to default profiles: default
+2019-08-05 13:46:48,445 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-05 13:46:48,595 - Finished Spring Data repository scanning in 138ms. Found 4 repository interfaces.
+2019-08-05 13:46:49,737 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7926e1a8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 13:46:52,134 - Tomcat initialized with port(s): 8080 (http)
+2019-08-05 13:46:52,236 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-05 13:46:52,315 - Starting service [Tomcat]
+2019-08-05 13:46:52,315 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-05 13:46:52,861 - Initializing Spring embedded WebApplicationContext
+2019-08-05 13:46:52,861 - Root WebApplicationContext: initialization completed in 5671 ms
+2019-08-05 13:46:53,654 - HikariPool-1 - Starting...
+2019-08-05 13:46:53,677 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-05 13:46:54,643 - HikariPool-1 - Start completed.
+2019-08-05 13:46:55,226 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-05 13:46:55,564 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-05 13:46:55,575 - HHH000206: hibernate.properties not found
+2019-08-05 13:46:57,547 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-05 13:46:58,568 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-05 13:47:03,887 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-05 13:47:10,472 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-05 13:47:11,082 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-05 13:47:13,587 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-05 13:47:13,781 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-05 13:47:13,936 - Started SellApplication in 28.067 seconds (JVM running for 30.95)
+2019-08-05 13:48:14,207 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-05 13:48:14,208 - Initializing Servlet 'dispatcherServlet'
+2019-08-05 13:48:14,342 - Completed initialization in 134 ms
+2019-08-05 13:58:20,329 - Starting SellApplication on DESKTOP-JU4PEEA with PID 12252 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-05 13:58:20,334 - No active profile set, falling back to default profiles: default
+2019-08-05 13:58:23,645 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-05 13:58:23,823 - Finished Spring Data repository scanning in 162ms. Found 4 repository interfaces.
+2019-08-05 13:58:24,211 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$30051fe3] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 13:58:25,219 - Tomcat initialized with port(s): 8080 (http)
+2019-08-05 13:58:25,235 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-05 13:58:25,246 - Starting service [Tomcat]
+2019-08-05 13:58:25,246 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-05 13:58:25,561 - Initializing Spring embedded WebApplicationContext
+2019-08-05 13:58:25,561 - Root WebApplicationContext: initialization completed in 4954 ms
+2019-08-05 13:58:26,032 - HikariPool-1 - Starting...
+2019-08-05 13:58:26,037 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-05 13:58:26,274 - HikariPool-1 - Start completed.
+2019-08-05 13:58:26,911 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-05 13:58:27,133 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-05 13:58:27,135 - HHH000206: hibernate.properties not found
+2019-08-05 13:58:27,474 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-05 13:58:27,808 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-05 13:58:28,378 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-05 13:58:29,688 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-05 13:58:29,738 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-05 13:58:30,073 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-05 13:58:30,138 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-05 13:58:30,142 - Started SellApplication in 10.749 seconds (JVM running for 14.531)
+2019-08-05 13:58:39,792 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-05 13:58:39,793 - Initializing Servlet 'dispatcherServlet'
+2019-08-05 13:58:39,802 - Completed initialization in 9 ms
+2019-08-05 13:58:39,915 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-05 14:09:36,857 - Starting SellApplication on DESKTOP-JU4PEEA with PID 8412 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-05 14:09:36,861 - No active profile set, falling back to default profiles: default
+2019-08-05 14:09:38,492 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-05 14:09:38,591 - Finished Spring Data repository scanning in 88ms. Found 4 repository interfaces.
+2019-08-05 14:09:38,943 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$58229d36] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 14:09:39,622 - Tomcat initialized with port(s): 8080 (http)
+2019-08-05 14:09:39,645 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-05 14:09:39,671 - Starting service [Tomcat]
+2019-08-05 14:09:39,672 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-05 14:09:39,953 - Initializing Spring embedded WebApplicationContext
+2019-08-05 14:09:39,953 - Root WebApplicationContext: initialization completed in 2961 ms
+2019-08-05 14:09:40,195 - HikariPool-1 - Starting...
+2019-08-05 14:09:40,198 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-05 14:09:40,472 - HikariPool-1 - Start completed.
+2019-08-05 14:09:40,574 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-05 14:09:41,176 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-05 14:09:41,179 - HHH000206: hibernate.properties not found
+2019-08-05 14:09:41,560 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-05 14:09:41,913 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-05 14:09:42,409 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-05 14:09:42,998 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-05 14:09:43,029 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-05 14:09:43,265 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-05 14:09:43,293 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-05 14:09:43,297 - Started SellApplication in 7.299 seconds (JVM running for 10.594)
+2019-08-05 14:10:33,024 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-05 14:10:33,025 - Initializing Servlet 'dispatcherServlet'
+2019-08-05 14:10:33,034 - Completed initialization in 9 ms
+2019-08-05 14:10:33,164 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-05 14:13:48,235 - Starting SellApplication on DESKTOP-JU4PEEA with PID 11516 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-05 14:13:48,239 - No active profile set, falling back to default profiles: default
+2019-08-05 14:13:49,670 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-05 14:13:49,816 - Finished Spring Data repository scanning in 133ms. Found 4 repository interfaces.
+2019-08-05 14:13:50,201 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a0a6bdcb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 14:13:50,583 - Tomcat initialized with port(s): 8080 (http)
+2019-08-05 14:13:50,601 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-05 14:13:50,612 - Starting service [Tomcat]
+2019-08-05 14:13:50,613 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-05 14:13:50,819 - Initializing Spring embedded WebApplicationContext
+2019-08-05 14:13:50,820 - Root WebApplicationContext: initialization completed in 2515 ms
+2019-08-05 14:13:50,966 - HikariPool-1 - Starting...
+2019-08-05 14:13:50,972 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-05 14:13:51,183 - HikariPool-1 - Start completed.
+2019-08-05 14:13:51,255 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-05 14:13:51,314 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-05 14:13:51,316 - HHH000206: hibernate.properties not found
+2019-08-05 14:13:51,480 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-05 14:13:51,645 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-05 14:13:52,260 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-05 14:13:53,098 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-05 14:13:53,130 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-05 14:13:53,350 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-05 14:13:53,396 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-05 14:13:53,400 - Started SellApplication in 5.928 seconds (JVM running for 8.057)
+2019-08-05 14:15:56,345 - Starting SellApplication on DESKTOP-JU4PEEA with PID 4044 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-05 14:15:56,348 - No active profile set, falling back to default profiles: default
+2019-08-05 14:15:57,502 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-05 14:15:57,665 - Finished Spring Data repository scanning in 152ms. Found 4 repository interfaces.
+2019-08-05 14:15:58,088 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$35406677] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 14:15:58,401 - Tomcat initialized with port(s): 8080 (http)
+2019-08-05 14:15:58,417 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-05 14:15:58,428 - Starting service [Tomcat]
+2019-08-05 14:15:58,429 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-05 14:15:58,629 - Initializing Spring embedded WebApplicationContext
+2019-08-05 14:15:58,630 - Root WebApplicationContext: initialization completed in 2221 ms
+2019-08-05 14:15:58,793 - HikariPool-1 - Starting...
+2019-08-05 14:15:58,796 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-05 14:15:58,956 - HikariPool-1 - Start completed.
+2019-08-05 14:15:59,025 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-05 14:15:59,100 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-05 14:15:59,102 - HHH000206: hibernate.properties not found
+2019-08-05 14:15:59,296 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-05 14:15:59,540 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-05 14:16:00,103 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-05 14:16:01,480 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-05 14:16:01,603 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-05 14:16:02,228 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-05 14:16:02,291 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-05 14:16:02,298 - Started SellApplication in 6.683 seconds (JVM running for 9.389)
+2019-08-05 14:26:06,624 - Starting SellApplication on DESKTOP-JU4PEEA with PID 10056 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-05 14:26:06,632 - No active profile set, falling back to default profiles: default
+2019-08-05 14:26:07,592 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-05 14:26:07,692 - Finished Spring Data repository scanning in 92ms. Found 4 repository interfaces.
+2019-08-05 14:26:08,060 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6734ec30] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 14:26:08,343 - Tomcat initialized with port(s): 8080 (http)
+2019-08-05 14:26:08,358 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-05 14:26:08,369 - Starting service [Tomcat]
+2019-08-05 14:26:08,369 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-05 14:26:08,542 - Initializing Spring embedded WebApplicationContext
+2019-08-05 14:26:08,542 - Root WebApplicationContext: initialization completed in 1831 ms
+2019-08-05 14:26:08,707 - HikariPool-1 - Starting...
+2019-08-05 14:26:08,711 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-05 14:26:08,944 - HikariPool-1 - Start completed.
+2019-08-05 14:26:09,043 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-05 14:26:09,172 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-05 14:26:09,174 - HHH000206: hibernate.properties not found
+2019-08-05 14:26:09,411 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-05 14:26:09,649 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-05 14:26:10,208 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-05 14:26:10,880 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-05 14:26:10,932 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-05 14:26:11,198 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-05 14:26:11,273 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-05 14:26:11,277 - Started SellApplication in 5.445 seconds (JVM running for 7.282)
+2019-08-05 14:30:51,430 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-05 14:30:51,431 - Initializing Servlet 'dispatcherServlet'
+2019-08-05 14:30:51,461 - Completed initialization in 30 ms
+2019-08-05 14:30:51,568 - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'orderId' is not present]
+2019-08-05 14:32:01,369 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-05 14:37:01,467 - Starting SellApplication on DESKTOP-JU4PEEA with PID 2624 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-05 14:37:01,470 - No active profile set, falling back to default profiles: default
+2019-08-05 14:37:02,977 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-05 14:37:03,085 - Finished Spring Data repository scanning in 98ms. Found 4 repository interfaces.
+2019-08-05 14:37:03,469 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d090f31b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-05 14:37:04,644 - Tomcat initialized with port(s): 8080 (http)
+2019-08-05 14:37:04,747 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-05 14:37:04,771 - Starting service [Tomcat]
+2019-08-05 14:37:04,771 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-05 14:37:05,131 - Initializing Spring embedded WebApplicationContext
+2019-08-05 14:37:05,132 - Root WebApplicationContext: initialization completed in 3573 ms
+2019-08-05 14:37:05,439 - HikariPool-1 - Starting...
+2019-08-05 14:37:05,443 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-08-05 14:37:05,698 - HikariPool-1 - Start completed.
+2019-08-05 14:37:05,810 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-05 14:37:06,954 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-05 14:37:06,974 - HHH000206: hibernate.properties not found
+2019-08-05 14:37:07,347 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-05 14:37:07,524 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-05 14:37:08,006 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-05 14:37:08,805 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-05 14:37:08,848 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-05 14:37:09,112 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-05 14:37:09,139 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-05 14:37:09,142 - Started SellApplication in 8.468 seconds (JVM running for 12.9)
+2019-08-05 14:38:00,215 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-05 14:38:00,216 - Initializing Servlet 'dispatcherServlet'
+2019-08-05 14:38:00,225 - Completed initialization in 8 ms
+2019-08-05 14:38:00,479 - HHH000397: Using ASTQueryTranslatorFactory
