@@ -1,0 +1,970 @@
+2019-08-08 10:32:53,441 - Starting SellApplication on DESKTOP-JU4PEEA with PID 12280 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 10:32:53,481 - No active profile set, falling back to default profiles: default
+2019-08-08 10:33:10,588 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 10:33:10,589 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 10:33:12,444 - Finished Spring Data repository scanning in 1477ms. Found 4 repository interfaces.
+2019-08-08 10:33:12,888 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 10:33:12,948 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 10:33:13,358 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 10:33:13,360 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 10:33:13,360 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 10:33:13,361 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 10:33:13,361 - Finished Spring Data repository scanning in 19ms. Found 0 repository interfaces.
+2019-08-08 10:33:16,180 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a6d72867] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 10:33:31,026 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 10:33:31,200 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 10:33:31,258 - Starting service [Tomcat]
+2019-08-08 10:33:31,259 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 10:33:32,694 - Initializing Spring embedded WebApplicationContext
+2019-08-08 10:33:32,694 - Root WebApplicationContext: initialization completed in 38249 ms
+2019-08-08 10:33:34,448 - HikariPool-1 - Starting...
+2019-08-08 10:33:35,468 - HikariPool-1 - Start completed.
+2019-08-08 10:33:35,819 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 10:33:36,391 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 10:33:36,402 - HHH000206: hibernate.properties not found
+2019-08-08 10:33:36,954 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 10:33:37,407 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 10:33:38,021 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 10:33:39,560 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 10:33:39,625 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 10:33:41,632 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 10:33:41,671 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 10:33:41,675 - Started SellApplication in 55.94 seconds (JVM running for 68.516)
+2019-08-08 10:35:08,905 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 10:35:08,907 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 10:35:09,062 - Completed initialization in 155 ms
+2019-08-08 10:35:10,029 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-08 10:37:05,159 - Starting SellApplication on DESKTOP-JU4PEEA with PID 14228 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 10:37:05,163 - No active profile set, falling back to default profiles: default
+2019-08-08 10:37:07,576 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 10:37:07,576 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 10:37:07,720 - Finished Spring Data repository scanning in 134ms. Found 4 repository interfaces.
+2019-08-08 10:37:07,737 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 10:37:07,738 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 10:37:07,777 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 10:37:07,779 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 10:37:07,780 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 10:37:07,785 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 10:37:07,785 - Finished Spring Data repository scanning in 35ms. Found 0 repository interfaces.
+2019-08-08 10:37:08,154 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a778d0e4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 10:37:08,738 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 10:37:08,756 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 10:37:08,782 - Starting service [Tomcat]
+2019-08-08 10:37:08,782 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 10:37:09,074 - Initializing Spring embedded WebApplicationContext
+2019-08-08 10:37:09,074 - Root WebApplicationContext: initialization completed in 3843 ms
+2019-08-08 10:37:09,294 - HikariPool-1 - Starting...
+2019-08-08 10:37:09,488 - HikariPool-1 - Start completed.
+2019-08-08 10:37:09,621 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 10:37:10,178 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 10:37:10,180 - HHH000206: hibernate.properties not found
+2019-08-08 10:37:10,473 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 10:37:10,687 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 10:37:11,447 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 10:37:12,430 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 10:37:12,464 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 10:37:13,058 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 10:37:13,088 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 10:37:13,093 - Started SellApplication in 8.951 seconds (JVM running for 12.077)
+2019-08-08 10:37:47,630 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 10:37:47,631 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 10:37:47,642 - Completed initialization in 11 ms
+2019-08-08 10:37:47,759 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-08 10:42:41,132 - Starting SellApplication on DESKTOP-JU4PEEA with PID 15576 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 10:42:41,135 - No active profile set, falling back to default profiles: default
+2019-08-08 10:42:42,284 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 10:42:42,284 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 10:42:42,386 - Finished Spring Data repository scanning in 94ms. Found 4 repository interfaces.
+2019-08-08 10:42:42,398 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 10:42:42,399 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 10:42:42,422 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 10:42:42,423 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 10:42:42,424 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 10:42:42,424 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 10:42:42,424 - Finished Spring Data repository scanning in 17ms. Found 0 repository interfaces.
+2019-08-08 10:42:42,801 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f740c7b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 10:42:43,088 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 10:42:43,105 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 10:42:43,116 - Starting service [Tomcat]
+2019-08-08 10:42:43,117 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 10:42:43,355 - Initializing Spring embedded WebApplicationContext
+2019-08-08 10:42:43,356 - Root WebApplicationContext: initialization completed in 2174 ms
+2019-08-08 10:42:43,670 - HikariPool-1 - Starting...
+2019-08-08 10:42:43,927 - HikariPool-1 - Start completed.
+2019-08-08 10:42:44,033 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 10:42:44,164 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 10:42:44,166 - HHH000206: hibernate.properties not found
+2019-08-08 10:42:44,379 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 10:42:44,696 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 10:42:45,130 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 10:42:45,697 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 10:42:45,729 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 10:42:46,268 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 10:42:46,308 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 10:42:46,312 - Started SellApplication in 6.014 seconds (JVM running for 7.895)
+2019-08-08 10:44:10,202 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 10:44:10,204 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 10:44:10,220 - Completed initialization in 16 ms
+2019-08-08 10:44:10,341 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-08 10:47:38,734 - Starting SellApplication on DESKTOP-JU4PEEA with PID 13772 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 10:47:38,739 - No active profile set, falling back to default profiles: default
+2019-08-08 10:47:39,799 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 10:47:39,800 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 10:47:39,922 - Finished Spring Data repository scanning in 114ms. Found 4 repository interfaces.
+2019-08-08 10:47:39,938 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 10:47:39,940 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 10:47:39,969 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 10:47:39,971 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 10:47:39,972 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 10:47:39,973 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 10:47:39,973 - Finished Spring Data repository scanning in 23ms. Found 0 repository interfaces.
+2019-08-08 10:47:40,834 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$94417c4f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 10:47:41,240 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 10:47:41,263 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 10:47:41,280 - Starting service [Tomcat]
+2019-08-08 10:47:41,281 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 10:47:41,528 - Initializing Spring embedded WebApplicationContext
+2019-08-08 10:47:41,528 - Root WebApplicationContext: initialization completed in 2743 ms
+2019-08-08 10:47:41,728 - HikariPool-1 - Starting...
+2019-08-08 10:47:41,893 - HikariPool-1 - Start completed.
+2019-08-08 10:47:41,948 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 10:47:42,010 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 10:47:42,013 - HHH000206: hibernate.properties not found
+2019-08-08 10:47:42,144 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 10:47:42,286 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 10:47:42,694 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 10:47:43,475 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 10:47:43,516 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 10:47:44,078 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 10:47:44,106 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 10:47:44,110 - Started SellApplication in 6.189 seconds (JVM running for 8.193)
+2019-08-08 10:48:24,312 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 10:48:24,313 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 10:48:24,326 - Completed initialization in 12 ms
+2019-08-08 10:48:24,407 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-08 10:51:06,386 - Starting SellApplication on DESKTOP-JU4PEEA with PID 5040 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 10:51:06,390 - No active profile set, falling back to default profiles: default
+2019-08-08 10:51:07,769 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 10:51:07,769 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 10:51:07,884 - Finished Spring Data repository scanning in 108ms. Found 4 repository interfaces.
+2019-08-08 10:51:07,901 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 10:51:07,902 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 10:51:07,924 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 10:51:07,925 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 10:51:07,926 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 10:51:07,927 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 10:51:07,927 - Finished Spring Data repository scanning in 17ms. Found 0 repository interfaces.
+2019-08-08 10:51:08,276 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$992f867] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 10:51:08,664 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 10:51:08,687 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 10:51:08,712 - Starting service [Tomcat]
+2019-08-08 10:51:08,712 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 10:51:09,081 - Initializing Spring embedded WebApplicationContext
+2019-08-08 10:51:09,081 - Root WebApplicationContext: initialization completed in 2557 ms
+2019-08-08 10:51:09,265 - HikariPool-1 - Starting...
+2019-08-08 10:51:09,486 - HikariPool-1 - Start completed.
+2019-08-08 10:51:09,562 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 10:51:09,657 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 10:51:09,659 - HHH000206: hibernate.properties not found
+2019-08-08 10:51:09,805 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 10:51:09,947 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 10:51:10,361 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 10:51:11,057 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 10:51:11,090 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 10:51:11,628 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 10:51:11,658 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 10:51:11,661 - Started SellApplication in 6.416 seconds (JVM running for 8.053)
+2019-08-08 10:52:53,216 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 10:52:53,218 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 10:52:53,229 - Completed initialization in 11 ms
+2019-08-08 10:52:53,307 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-08 10:53:36,185 - Starting SellApplication on DESKTOP-JU4PEEA with PID 3824 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 10:53:36,189 - No active profile set, falling back to default profiles: default
+2019-08-08 10:53:38,197 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 10:53:38,197 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 10:53:38,372 - Finished Spring Data repository scanning in 163ms. Found 4 repository interfaces.
+2019-08-08 10:53:38,388 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 10:53:38,389 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 10:53:38,419 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 10:53:38,420 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 10:53:38,421 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 10:53:38,422 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 10:53:38,422 - Finished Spring Data repository scanning in 23ms. Found 0 repository interfaces.
+2019-08-08 10:53:38,995 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$64be9294] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 10:53:39,560 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 10:53:39,591 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 10:53:39,612 - Starting service [Tomcat]
+2019-08-08 10:53:39,613 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 10:53:40,041 - Initializing Spring embedded WebApplicationContext
+2019-08-08 10:53:40,041 - Root WebApplicationContext: initialization completed in 3757 ms
+2019-08-08 10:53:40,191 - HikariPool-1 - Starting...
+2019-08-08 10:53:40,324 - HikariPool-1 - Start completed.
+2019-08-08 10:53:40,379 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 10:53:40,462 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 10:53:40,466 - HHH000206: hibernate.properties not found
+2019-08-08 10:53:40,586 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 10:53:40,734 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 10:53:41,137 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 10:53:41,860 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 10:53:41,893 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 10:53:42,451 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 10:53:42,479 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 10:53:42,483 - Started SellApplication in 7.164 seconds (JVM running for 9.35)
+2019-08-08 10:55:33,889 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 10:55:33,891 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 10:55:33,905 - Completed initialization in 14 ms
+2019-08-08 10:55:34,018 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-08 10:59:13,435 - Starting SellApplication on DESKTOP-JU4PEEA with PID 9732 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 10:59:13,440 - No active profile set, falling back to default profiles: default
+2019-08-08 10:59:15,290 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 10:59:15,290 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 10:59:15,390 - Finished Spring Data repository scanning in 93ms. Found 4 repository interfaces.
+2019-08-08 10:59:15,404 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 10:59:15,405 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 10:59:15,428 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 10:59:15,429 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 10:59:15,430 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 10:59:15,431 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 10:59:15,431 - Finished Spring Data repository scanning in 18ms. Found 0 repository interfaces.
+2019-08-08 10:59:15,810 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5e8bbd44] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 10:59:16,355 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 10:59:16,373 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 10:59:16,394 - Starting service [Tomcat]
+2019-08-08 10:59:16,394 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 10:59:16,732 - Initializing Spring embedded WebApplicationContext
+2019-08-08 10:59:16,732 - Root WebApplicationContext: initialization completed in 3228 ms
+2019-08-08 10:59:17,262 - HikariPool-1 - Starting...
+2019-08-08 10:59:17,518 - HikariPool-1 - Start completed.
+2019-08-08 10:59:17,741 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 10:59:17,910 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 10:59:17,915 - HHH000206: hibernate.properties not found
+2019-08-08 10:59:18,210 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 10:59:18,376 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 10:59:18,798 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 10:59:19,569 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 10:59:19,611 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 10:59:20,321 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 10:59:20,356 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 10:59:20,360 - Started SellApplication in 7.739 seconds (JVM running for 10.384)
+2019-08-08 10:59:50,561 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 10:59:50,563 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 10:59:50,600 - Completed initialization in 37 ms
+2019-08-08 10:59:50,821 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-08 11:02:56,534 - Starting SellApplication on DESKTOP-JU4PEEA with PID 2932 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 11:02:56,549 - No active profile set, falling back to default profiles: default
+2019-08-08 11:02:57,875 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 11:02:57,876 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 11:02:58,014 - Finished Spring Data repository scanning in 131ms. Found 4 repository interfaces.
+2019-08-08 11:02:58,028 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 11:02:58,030 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 11:02:58,054 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 11:02:58,055 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 11:02:58,056 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 11:02:58,057 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 11:02:58,058 - Finished Spring Data repository scanning in 19ms. Found 0 repository interfaces.
+2019-08-08 11:02:58,466 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$cf5baedf] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 11:02:58,764 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 11:02:58,783 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 11:02:58,795 - Starting service [Tomcat]
+2019-08-08 11:02:58,795 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 11:02:59,139 - Initializing Spring embedded WebApplicationContext
+2019-08-08 11:02:59,140 - Root WebApplicationContext: initialization completed in 2517 ms
+2019-08-08 11:02:59,305 - HikariPool-1 - Starting...
+2019-08-08 11:02:59,515 - HikariPool-1 - Start completed.
+2019-08-08 11:02:59,573 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 11:02:59,652 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 11:02:59,656 - HHH000206: hibernate.properties not found
+2019-08-08 11:02:59,966 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 11:03:00,295 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 11:03:01,045 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 11:03:01,648 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 11:03:01,684 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 11:03:02,222 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 11:03:02,255 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 11:03:02,258 - Started SellApplication in 6.614 seconds (JVM running for 8.723)
+2019-08-08 11:03:09,803 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 11:03:09,804 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 11:03:09,815 - Completed initialization in 11 ms
+2019-08-08 11:03:10,233 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-08 11:06:06,530 - Starting SellApplication on DESKTOP-JU4PEEA with PID 3528 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 11:06:06,536 - No active profile set, falling back to default profiles: default
+2019-08-08 11:06:08,053 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 11:06:08,053 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 11:06:08,194 - Finished Spring Data repository scanning in 130ms. Found 4 repository interfaces.
+2019-08-08 11:06:08,216 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 11:06:08,218 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 11:06:08,250 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 11:06:08,251 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 11:06:08,252 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 11:06:08,253 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 11:06:08,253 - Finished Spring Data repository scanning in 22ms. Found 0 repository interfaces.
+2019-08-08 11:06:08,633 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$afc85794] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 11:06:08,957 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 11:06:08,978 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 11:06:08,991 - Starting service [Tomcat]
+2019-08-08 11:06:08,991 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 11:06:09,206 - Initializing Spring embedded WebApplicationContext
+2019-08-08 11:06:09,207 - Root WebApplicationContext: initialization completed in 2583 ms
+2019-08-08 11:06:09,363 - HikariPool-1 - Starting...
+2019-08-08 11:06:09,665 - HikariPool-1 - Start completed.
+2019-08-08 11:06:09,754 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 11:06:09,859 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 11:06:09,862 - HHH000206: hibernate.properties not found
+2019-08-08 11:06:10,132 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 11:06:10,444 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 11:06:11,248 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 11:06:11,884 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 11:06:11,916 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 11:06:12,478 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 11:06:12,506 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 11:06:12,511 - Started SellApplication in 6.989 seconds (JVM running for 9.395)
+2019-08-08 11:06:44,808 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 11:06:44,808 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 11:06:44,820 - Completed initialization in 12 ms
+2019-08-08 11:06:44,896 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-08 11:08:00,293 - Starting SellApplication on DESKTOP-JU4PEEA with PID 2652 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 11:08:00,299 - No active profile set, falling back to default profiles: default
+2019-08-08 11:08:01,506 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 11:08:01,506 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 11:08:01,650 - Finished Spring Data repository scanning in 128ms. Found 4 repository interfaces.
+2019-08-08 11:08:01,674 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 11:08:01,675 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 11:08:01,712 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 11:08:01,715 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 11:08:01,716 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 11:08:01,717 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 11:08:01,717 - Finished Spring Data repository scanning in 28ms. Found 0 repository interfaces.
+2019-08-08 11:08:02,213 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$32d24e25] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 11:08:02,588 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 11:08:02,609 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 11:08:02,622 - Starting service [Tomcat]
+2019-08-08 11:08:02,622 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 11:08:02,903 - Initializing Spring embedded WebApplicationContext
+2019-08-08 11:08:02,903 - Root WebApplicationContext: initialization completed in 2496 ms
+2019-08-08 11:08:03,094 - HikariPool-1 - Starting...
+2019-08-08 11:08:03,290 - HikariPool-1 - Start completed.
+2019-08-08 11:08:03,348 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 11:08:03,404 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 11:08:03,406 - HHH000206: hibernate.properties not found
+2019-08-08 11:08:03,540 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 11:08:03,698 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 11:08:04,129 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 11:08:04,863 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 11:08:04,917 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 11:08:05,709 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 11:08:05,739 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 11:08:05,743 - Started SellApplication in 6.558 seconds (JVM running for 8.738)
+2019-08-08 11:09:19,984 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 11:09:19,986 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 11:09:19,999 - Completed initialization in 13 ms
+2019-08-08 11:09:20,087 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-08 11:11:35,184 - Starting SellApplication on DESKTOP-JU4PEEA with PID 7328 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 11:11:35,190 - No active profile set, falling back to default profiles: default
+2019-08-08 11:11:37,747 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 11:11:37,747 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 11:11:37,845 - Finished Spring Data repository scanning in 90ms. Found 4 repository interfaces.
+2019-08-08 11:11:37,858 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 11:11:37,860 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 11:11:37,881 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 11:11:37,882 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 11:11:37,883 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 11:11:37,884 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 11:11:37,884 - Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2019-08-08 11:11:38,323 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$94417c4f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 11:11:39,075 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 11:11:39,093 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 11:11:39,119 - Starting service [Tomcat]
+2019-08-08 11:11:39,120 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 11:11:39,417 - Initializing Spring embedded WebApplicationContext
+2019-08-08 11:11:39,418 - Root WebApplicationContext: initialization completed in 4144 ms
+2019-08-08 11:11:39,653 - HikariPool-1 - Starting...
+2019-08-08 11:11:40,000 - HikariPool-1 - Start completed.
+2019-08-08 11:11:40,172 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 11:11:40,405 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 11:11:40,407 - HHH000206: hibernate.properties not found
+2019-08-08 11:11:40,719 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 11:11:40,894 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 11:11:41,461 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 11:11:42,265 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 11:11:42,297 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 11:11:42,845 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 11:11:42,872 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 11:11:42,876 - Started SellApplication in 8.8 seconds (JVM running for 11.163)
+2019-08-08 11:13:10,674 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 11:13:10,676 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 11:13:10,689 - Completed initialization in 12 ms
+2019-08-08 11:13:10,951 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-08 11:15:03,044 - Starting SellApplication on DESKTOP-JU4PEEA with PID 13132 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 11:15:03,048 - No active profile set, falling back to default profiles: default
+2019-08-08 11:15:04,202 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 11:15:04,202 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 11:15:04,301 - Finished Spring Data repository scanning in 91ms. Found 4 repository interfaces.
+2019-08-08 11:15:04,314 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 11:15:04,316 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 11:15:04,345 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 11:15:04,346 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 11:15:04,346 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 11:15:04,347 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 11:15:04,347 - Finished Spring Data repository scanning in 23ms. Found 0 repository interfaces.
+2019-08-08 11:15:04,775 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$50d943ae] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 11:15:05,158 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 11:15:05,180 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 11:15:05,196 - Starting service [Tomcat]
+2019-08-08 11:15:05,197 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 11:15:05,533 - Initializing Spring embedded WebApplicationContext
+2019-08-08 11:15:05,534 - Root WebApplicationContext: initialization completed in 2415 ms
+2019-08-08 11:15:05,691 - HikariPool-1 - Starting...
+2019-08-08 11:15:05,953 - HikariPool-1 - Start completed.
+2019-08-08 11:15:06,014 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 11:15:06,096 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 11:15:06,097 - HHH000206: hibernate.properties not found
+2019-08-08 11:15:06,224 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 11:15:06,374 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 11:15:06,790 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 11:15:07,704 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 11:15:07,759 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 11:15:08,420 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 11:15:08,454 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 11:15:08,458 - Started SellApplication in 6.263 seconds (JVM running for 8.562)
+2019-08-08 11:15:47,071 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 11:15:47,072 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 11:15:47,083 - Completed initialization in 11 ms
+2019-08-08 11:19:00,415 - Starting SellApplication on DESKTOP-JU4PEEA with PID 11840 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 11:19:00,419 - No active profile set, falling back to default profiles: default
+2019-08-08 11:19:03,445 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 11:19:03,445 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 11:19:03,588 - Finished Spring Data repository scanning in 132ms. Found 4 repository interfaces.
+2019-08-08 11:19:03,608 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 11:19:03,609 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 11:19:03,645 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 11:19:03,649 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 11:19:03,651 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 11:19:03,652 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 11:19:03,653 - Finished Spring Data repository scanning in 30ms. Found 0 repository interfaces.
+2019-08-08 11:19:04,198 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c87e3a85] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 11:19:04,728 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 11:19:04,745 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 11:19:04,760 - Starting service [Tomcat]
+2019-08-08 11:19:04,760 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 11:19:05,070 - Initializing Spring embedded WebApplicationContext
+2019-08-08 11:19:05,070 - Root WebApplicationContext: initialization completed in 4600 ms
+2019-08-08 11:19:05,314 - HikariPool-1 - Starting...
+2019-08-08 11:19:05,596 - HikariPool-1 - Start completed.
+2019-08-08 11:19:05,828 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 11:19:06,057 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 11:19:06,059 - HHH000206: hibernate.properties not found
+2019-08-08 11:19:06,419 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 11:19:06,640 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 11:19:07,226 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 11:19:07,867 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 11:19:07,897 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 11:19:08,419 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 11:19:08,457 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 11:19:08,461 - Started SellApplication in 8.829 seconds (JVM running for 12.066)
+2019-08-08 11:20:29,038 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 11:20:29,040 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 11:20:29,051 - Completed initialization in 11 ms
+2019-08-08 11:20:53,297 - Starting SellApplication on DESKTOP-JU4PEEA with PID 12628 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 11:20:53,307 - No active profile set, falling back to default profiles: default
+2019-08-08 11:20:54,419 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 11:20:54,420 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 11:20:54,534 - Finished Spring Data repository scanning in 106ms. Found 4 repository interfaces.
+2019-08-08 11:20:54,547 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 11:20:54,548 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 11:20:54,571 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 11:20:54,572 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 11:20:54,572 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 11:20:54,573 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 11:20:54,573 - Finished Spring Data repository scanning in 17ms. Found 0 repository interfaces.
+2019-08-08 11:20:55,050 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$8037d0ce] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 11:20:55,394 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 11:20:55,410 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 11:20:55,420 - Starting service [Tomcat]
+2019-08-08 11:20:55,420 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 11:20:55,651 - Initializing Spring embedded WebApplicationContext
+2019-08-08 11:20:55,651 - Root WebApplicationContext: initialization completed in 2281 ms
+2019-08-08 11:20:55,828 - HikariPool-1 - Starting...
+2019-08-08 11:20:55,990 - HikariPool-1 - Start completed.
+2019-08-08 11:20:56,045 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 11:20:56,104 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 11:20:56,106 - HHH000206: hibernate.properties not found
+2019-08-08 11:20:56,234 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 11:20:56,372 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 11:20:56,758 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 11:20:57,384 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 11:20:57,418 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 11:20:58,217 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 11:20:58,258 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 11:20:58,262 - Started SellApplication in 5.857 seconds (JVM running for 8.167)
+2019-08-08 11:21:10,349 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 11:21:10,350 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 11:21:10,364 - Completed initialization in 14 ms
+2019-08-08 11:22:13,335 - Starting SellApplication on DESKTOP-JU4PEEA with PID 8240 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 11:22:13,362 - No active profile set, falling back to default profiles: default
+2019-08-08 11:22:14,378 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 11:22:14,379 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 11:22:14,552 - Finished Spring Data repository scanning in 161ms. Found 4 repository interfaces.
+2019-08-08 11:22:14,579 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 11:22:14,581 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 11:22:14,613 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 11:22:14,615 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 11:22:14,616 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 11:22:14,617 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 11:22:14,617 - Finished Spring Data repository scanning in 22ms. Found 0 repository interfaces.
+2019-08-08 11:22:15,083 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7ed26fa4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 11:22:15,824 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 11:22:15,929 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 11:22:15,993 - Starting service [Tomcat]
+2019-08-08 11:22:15,993 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 11:22:16,444 - Initializing Spring embedded WebApplicationContext
+2019-08-08 11:22:16,444 - Root WebApplicationContext: initialization completed in 3027 ms
+2019-08-08 11:22:16,796 - HikariPool-1 - Starting...
+2019-08-08 11:22:17,026 - HikariPool-1 - Start completed.
+2019-08-08 11:22:17,632 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 11:22:18,198 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 11:22:18,214 - HHH000206: hibernate.properties not found
+2019-08-08 11:22:18,872 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 11:22:19,552 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 11:22:20,353 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 11:22:20,973 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 11:22:21,005 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 11:22:21,535 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 11:22:21,567 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 11:22:21,571 - Started SellApplication in 8.992 seconds (JVM running for 11.133)
+2019-08-08 11:22:35,203 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 11:22:35,205 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 11:22:35,221 - Completed initialization in 16 ms
+2019-08-08 11:22:39,916 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-08 11:23:46,633 - Starting SellApplication on DESKTOP-JU4PEEA with PID 472 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 11:23:46,638 - No active profile set, falling back to default profiles: default
+2019-08-08 11:23:48,848 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 11:23:48,848 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 11:23:48,965 - Finished Spring Data repository scanning in 109ms. Found 4 repository interfaces.
+2019-08-08 11:23:48,979 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 11:23:48,981 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 11:23:49,006 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 11:23:49,007 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 11:23:49,008 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 11:23:49,009 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 11:23:49,009 - Finished Spring Data repository scanning in 20ms. Found 0 repository interfaces.
+2019-08-08 11:23:49,772 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$e5d738b9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 11:23:50,588 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 11:23:50,605 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 11:23:50,629 - Starting service [Tomcat]
+2019-08-08 11:23:50,630 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 11:23:51,005 - Initializing Spring embedded WebApplicationContext
+2019-08-08 11:23:51,006 - Root WebApplicationContext: initialization completed in 4310 ms
+2019-08-08 11:23:51,245 - HikariPool-1 - Starting...
+2019-08-08 11:23:51,460 - HikariPool-1 - Start completed.
+2019-08-08 11:23:51,801 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 11:23:52,402 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 11:23:52,407 - HHH000206: hibernate.properties not found
+2019-08-08 11:23:52,786 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 11:23:52,965 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 11:23:53,369 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 11:23:53,930 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 11:23:53,962 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 11:23:54,519 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 11:23:54,546 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 11:23:54,550 - Started SellApplication in 8.887 seconds (JVM running for 13.331)
+2019-08-08 11:24:38,395 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 11:24:38,396 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 11:24:38,407 - Completed initialization in 11 ms
+2019-08-08 11:24:38,537 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-08 11:25:50,323 - Starting SellApplication on DESKTOP-JU4PEEA with PID 3528 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 11:25:50,327 - No active profile set, falling back to default profiles: default
+2019-08-08 11:25:51,988 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 11:25:51,989 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 11:25:52,199 - Finished Spring Data repository scanning in 189ms. Found 4 repository interfaces.
+2019-08-08 11:25:52,226 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 11:25:52,228 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 11:25:52,275 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 11:25:52,276 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 11:25:52,278 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 11:25:52,278 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 11:25:52,279 - Finished Spring Data repository scanning in 35ms. Found 0 repository interfaces.
+2019-08-08 11:25:52,960 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$798d2188] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 11:25:53,235 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 11:25:53,251 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 11:25:53,262 - Starting service [Tomcat]
+2019-08-08 11:25:53,262 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 11:25:53,644 - Initializing Spring embedded WebApplicationContext
+2019-08-08 11:25:53,644 - Root WebApplicationContext: initialization completed in 3263 ms
+2019-08-08 11:25:53,799 - HikariPool-1 - Starting...
+2019-08-08 11:25:55,250 - HikariPool-1 - Start completed.
+2019-08-08 11:25:55,333 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 11:25:55,417 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 11:25:55,419 - HHH000206: hibernate.properties not found
+2019-08-08 11:25:55,533 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 11:25:55,683 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 11:25:56,093 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 11:25:56,658 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 11:25:56,696 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 11:25:57,227 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 11:25:57,255 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 11:25:57,258 - Started SellApplication in 7.64 seconds (JVM running for 9.117)
+2019-08-08 11:27:57,241 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 11:27:57,242 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 11:27:57,257 - Completed initialization in 15 ms
+2019-08-08 11:27:57,385 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-08 13:21:39,278 - Starting ProductServiceImplTest on DESKTOP-JU4PEEA with PID 10268 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 13:21:39,298 - No active profile set, falling back to default profiles: default
+2019-08-08 13:21:58,161 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 13:21:58,233 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 13:22:02,047 - Finished Spring Data repository scanning in 3409ms. Found 4 repository interfaces.
+2019-08-08 13:22:02,273 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 13:22:02,275 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 13:22:02,401 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 13:22:02,403 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 13:22:02,403 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 13:22:02,404 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 13:22:02,404 - Finished Spring Data repository scanning in 27ms. Found 0 repository interfaces.
+2019-08-08 13:22:04,458 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$2a283a92] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 13:22:06,096 - HikariPool-1 - Starting...
+2019-08-08 13:22:07,754 - HikariPool-1 - Start completed.
+2019-08-08 13:22:09,035 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 13:22:12,243 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 13:22:12,283 - HHH000206: hibernate.properties not found
+2019-08-08 13:22:20,052 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 13:22:27,108 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 13:22:31,149 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 13:22:36,106 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 13:22:36,293 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 13:22:39,436 - Started ProductServiceImplTest in 65.234 seconds (JVM running for 87.584)
+2019-08-08 13:22:40,594 - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-08 13:22:40,598 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 13:22:40,600 - HikariPool-1 - Shutdown initiated...
+2019-08-08 13:22:40,659 - HikariPool-1 - Shutdown completed.
+2019-08-08 14:38:30,095 - Starting ProductServiceImplTest on DESKTOP-JU4PEEA with PID 9036 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 14:38:30,096 - No active profile set, falling back to default profiles: default
+2019-08-08 14:38:42,441 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 14:38:42,563 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 14:38:46,919 - Finished Spring Data repository scanning in 3999ms. Found 4 repository interfaces.
+2019-08-08 14:38:47,243 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 14:38:47,246 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 14:38:47,419 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 14:38:47,422 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 14:38:47,423 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 14:38:47,425 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 14:38:47,425 - Finished Spring Data repository scanning in 50ms. Found 0 repository interfaces.
+2019-08-08 14:38:49,618 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$aaeed5cc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 14:38:51,282 - HikariPool-1 - Starting...
+2019-08-08 14:38:52,472 - HikariPool-1 - Start completed.
+2019-08-08 14:38:53,679 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 14:38:57,520 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 14:38:57,558 - HHH000206: hibernate.properties not found
+2019-08-08 14:39:02,528 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 14:39:08,488 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 14:39:12,241 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 14:39:17,166 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 14:39:17,396 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 14:39:20,652 - Started ProductServiceImplTest in 59.207 seconds (JVM running for 74.429)
+2019-08-08 14:39:21,725 - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-08-08 14:39:21,730 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 14:39:21,734 - HikariPool-1 - Shutdown initiated...
+2019-08-08 14:39:21,794 - HikariPool-1 - Shutdown completed.
+2019-08-08 14:41:53,131 - Starting SellApplication on DESKTOP-JU4PEEA with PID 14800 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 14:41:53,135 - No active profile set, falling back to default profiles: default
+2019-08-08 14:41:54,606 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 14:41:54,606 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 14:41:54,728 - Finished Spring Data repository scanning in 111ms. Found 4 repository interfaces.
+2019-08-08 14:41:54,744 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 14:41:54,745 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 14:41:54,768 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 14:41:54,769 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 14:41:54,770 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 14:41:54,771 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 14:41:54,771 - Finished Spring Data repository scanning in 17ms. Found 0 repository interfaces.
+2019-08-08 14:41:55,211 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$2e988060] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 14:41:56,570 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 14:41:56,810 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 14:41:56,907 - Starting service [Tomcat]
+2019-08-08 14:41:56,907 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 14:41:57,847 - Initializing Spring embedded WebApplicationContext
+2019-08-08 14:41:57,847 - Root WebApplicationContext: initialization completed in 4635 ms
+2019-08-08 14:41:58,136 - HikariPool-1 - Starting...
+2019-08-08 14:41:58,551 - HikariPool-1 - Start completed.
+2019-08-08 14:41:58,608 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 14:41:58,692 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 14:41:58,694 - HHH000206: hibernate.properties not found
+2019-08-08 14:41:58,815 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 14:41:59,134 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 14:41:59,865 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 14:42:00,744 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 14:42:00,783 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 14:42:02,152 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 14:42:02,900 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 14:42:02,904 - Started SellApplication in 11.002 seconds (JVM running for 13.39)
+2019-08-08 14:42:13,280 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 14:42:13,281 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 14:42:13,294 - Completed initialization in 13 ms
+2019-08-08 14:42:13,485 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-08 14:53:11,430 - Starting SellApplication on DESKTOP-JU4PEEA with PID 12652 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 14:53:11,433 - No active profile set, falling back to default profiles: default
+2019-08-08 14:53:17,186 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 14:53:17,186 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 14:53:17,291 - Finished Spring Data repository scanning in 97ms. Found 4 repository interfaces.
+2019-08-08 14:53:17,306 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 14:53:17,307 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 14:53:17,336 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 14:53:17,337 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 14:53:17,337 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 14:53:17,338 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 14:53:17,338 - Finished Spring Data repository scanning in 20ms. Found 0 repository interfaces.
+2019-08-08 14:53:17,745 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7ddbe876] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 14:53:19,903 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 14:53:19,929 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 14:53:19,964 - Starting service [Tomcat]
+2019-08-08 14:53:19,964 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 14:53:20,430 - Initializing Spring embedded WebApplicationContext
+2019-08-08 14:53:20,430 - Root WebApplicationContext: initialization completed in 8910 ms
+2019-08-08 14:53:20,732 - HikariPool-1 - Starting...
+2019-08-08 14:53:20,964 - HikariPool-1 - Start completed.
+2019-08-08 14:53:21,064 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 14:53:21,478 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 14:53:21,480 - HHH000206: hibernate.properties not found
+2019-08-08 14:53:21,791 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 14:53:21,996 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 14:53:22,422 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 14:53:23,012 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 14:53:23,056 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 14:53:23,619 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 14:53:23,656 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 14:53:23,660 - Started SellApplication in 13.041 seconds (JVM running for 16.311)
+2019-08-08 14:57:40,744 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 14:57:40,746 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 14:57:40,757 - Completed initialization in 11 ms
+2019-08-08 14:57:41,077 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-08 15:25:57,538 - Starting SellApplication on DESKTOP-JU4PEEA with PID 10060 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 15:25:57,811 - No active profile set, falling back to default profiles: default
+2019-08-08 15:26:02,831 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 15:26:02,832 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 15:26:02,960 - Finished Spring Data repository scanning in 120ms. Found 4 repository interfaces.
+2019-08-08 15:26:02,974 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 15:26:02,975 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 15:26:02,998 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 15:26:03,000 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 15:26:03,000 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 15:26:03,001 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 15:26:03,001 - Finished Spring Data repository scanning in 17ms. Found 0 repository interfaces.
+2019-08-08 15:26:03,460 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$40591e27] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 15:26:08,482 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 15:26:08,573 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 15:26:08,627 - Starting service [Tomcat]
+2019-08-08 15:26:08,628 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 15:26:09,873 - Initializing Spring embedded WebApplicationContext
+2019-08-08 15:26:09,873 - Root WebApplicationContext: initialization completed in 11980 ms
+2019-08-08 15:26:12,275 - HikariPool-1 - Starting...
+2019-08-08 15:26:12,818 - HikariPool-1 - Start completed.
+2019-08-08 15:26:13,696 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 15:26:14,141 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 15:26:14,153 - HHH000206: hibernate.properties not found
+2019-08-08 15:26:14,700 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 15:26:15,913 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 15:26:17,624 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 15:26:19,207 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 15:26:19,317 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 15:26:21,760 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 15:26:21,810 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 15:26:21,838 - Started SellApplication in 25.769 seconds (JVM running for 35.316)
+2019-08-08 15:30:00,429 - Starting SellApplication on DESKTOP-JU4PEEA with PID 14524 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 15:30:00,434 - No active profile set, falling back to default profiles: default
+2019-08-08 15:30:02,071 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 15:30:02,072 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 15:30:02,221 - Finished Spring Data repository scanning in 137ms. Found 4 repository interfaces.
+2019-08-08 15:30:02,235 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 15:30:02,237 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 15:30:02,271 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 15:30:02,273 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 15:30:02,274 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 15:30:02,275 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 15:30:02,276 - Finished Spring Data repository scanning in 26ms. Found 0 repository interfaces.
+2019-08-08 15:30:02,834 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ab4fce11] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 15:30:03,303 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 15:30:03,322 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 15:30:03,335 - Starting service [Tomcat]
+2019-08-08 15:30:03,335 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 15:30:03,593 - Initializing Spring embedded WebApplicationContext
+2019-08-08 15:30:03,594 - Root WebApplicationContext: initialization completed in 3058 ms
+2019-08-08 15:30:03,771 - HikariPool-1 - Starting...
+2019-08-08 15:30:04,001 - HikariPool-1 - Start completed.
+2019-08-08 15:30:04,072 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 15:30:04,174 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 15:30:04,179 - HHH000206: hibernate.properties not found
+2019-08-08 15:30:04,328 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 15:30:04,520 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 15:30:05,075 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 15:30:05,764 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 15:30:05,795 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 15:30:06,369 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 15:30:06,410 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 15:30:06,414 - Started SellApplication in 7.016 seconds (JVM running for 9.635)
+2019-08-08 15:30:48,410 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 15:30:48,411 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 15:30:48,655 - Completed initialization in 243 ms
+2019-08-08 15:30:49,172 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-08 16:23:36,518 - Starting SellApplication on DESKTOP-JU4PEEA with PID 8296 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 16:23:36,639 - No active profile set, falling back to default profiles: default
+2019-08-08 16:23:49,332 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 16:23:49,332 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 16:23:50,175 - Finished Spring Data repository scanning in 648ms. Found 4 repository interfaces.
+2019-08-08 16:23:50,487 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 16:23:50,544 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 16:23:50,855 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 16:23:50,857 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 16:23:50,858 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 16:23:50,858 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 16:23:50,859 - Finished Spring Data repository scanning in 28ms. Found 0 repository interfaces.
+2019-08-08 16:23:53,035 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$51cadbf8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 16:24:03,513 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 16:24:03,685 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 16:24:03,752 - Starting service [Tomcat]
+2019-08-08 16:24:03,752 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 16:24:05,718 - Initializing Spring embedded WebApplicationContext
+2019-08-08 16:24:05,719 - Root WebApplicationContext: initialization completed in 28660 ms
+2019-08-08 16:24:08,164 - HikariPool-1 - Starting...
+2019-08-08 16:24:08,791 - HikariPool-1 - Start completed.
+2019-08-08 16:24:09,359 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 16:24:09,686 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 16:24:09,688 - HHH000206: hibernate.properties not found
+2019-08-08 16:24:10,270 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 16:24:10,837 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 16:24:11,859 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 16:24:13,389 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 16:24:13,508 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 16:24:15,660 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 16:24:15,709 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 16:24:15,740 - Started SellApplication in 46.082 seconds (JVM running for 60.729)
+2019-08-08 16:30:34,021 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 16:30:34,022 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 16:30:34,146 - Completed initialization in 124 ms
+2019-08-08 16:30:35,129 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-08 16:31:26,407 - SQL Error: 1048, SQLState: 23000
+2019-08-08 16:31:53,858 - SQL Error: 1048, SQLState: 23000
+2019-08-08 16:33:33,481 - Starting SellApplication on DESKTOP-JU4PEEA with PID 10212 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 16:33:33,485 - No active profile set, falling back to default profiles: default
+2019-08-08 16:33:34,949 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 16:33:34,950 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 16:33:35,170 - Finished Spring Data repository scanning in 200ms. Found 4 repository interfaces.
+2019-08-08 16:33:35,198 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 16:33:35,200 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 16:33:35,237 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 16:33:35,239 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 16:33:35,240 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 16:33:35,241 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 16:33:35,242 - Finished Spring Data repository scanning in 29ms. Found 0 repository interfaces.
+2019-08-08 16:33:35,809 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$8f617efa] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 16:33:36,248 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 16:33:36,265 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 16:33:36,275 - Starting service [Tomcat]
+2019-08-08 16:33:36,275 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 16:33:36,512 - Initializing Spring embedded WebApplicationContext
+2019-08-08 16:33:36,512 - Root WebApplicationContext: initialization completed in 2968 ms
+2019-08-08 16:33:36,679 - HikariPool-1 - Starting...
+2019-08-08 16:33:36,922 - HikariPool-1 - Start completed.
+2019-08-08 16:33:36,990 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 16:33:37,074 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 16:33:37,077 - HHH000206: hibernate.properties not found
+2019-08-08 16:33:37,239 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 16:33:37,467 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 16:33:37,903 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 16:33:38,591 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 16:33:38,631 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 16:33:39,283 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 16:33:39,322 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 16:33:39,326 - Started SellApplication in 6.625 seconds (JVM running for 9.604)
+2019-08-08 16:34:24,201 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 16:34:24,203 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 16:34:24,213 - Completed initialization in 10 ms
+2019-08-08 16:34:28,625 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-08 16:34:41,759 - SQL Error: 1048, SQLState: 23000
+2019-08-08 16:34:48,559 - SQL Error: 1048, SQLState: 23000
+2019-08-08 16:35:21,765 - SQL Error: 1048, SQLState: 23000
+2019-08-08 16:37:48,152 - Starting SellApplication on DESKTOP-JU4PEEA with PID 9660 (started by 煊 in D:\Program Files\Idea_Project\sell)
+2019-08-08 16:37:48,171 - No active profile set, falling back to default profiles: default
+2019-08-08 16:37:49,014 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 16:37:49,015 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 16:37:49,126 - Finished Spring Data repository scanning in 104ms. Found 4 repository interfaces.
+2019-08-08 16:37:49,139 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-08 16:37:49,140 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-08 16:37:49,162 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderDetailRepository.
+2019-08-08 16:37:49,163 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.OrderMasterRepository.
+2019-08-08 16:37:49,164 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductCategoryRepository.
+2019-08-08 16:37:49,164 - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.imooc.sell.repository.ProductInfoRepository.
+2019-08-08 16:37:49,165 - Finished Spring Data repository scanning in 17ms. Found 0 repository interfaces.
+2019-08-08 16:37:49,807 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5a23738f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-08 16:37:50,302 - Tomcat initialized with port(s): 8080 (http)
+2019-08-08 16:37:50,329 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-08-08 16:37:50,353 - Starting service [Tomcat]
+2019-08-08 16:37:50,354 - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-08 16:37:50,717 - Initializing Spring embedded WebApplicationContext
+2019-08-08 16:37:50,717 - Root WebApplicationContext: initialization completed in 2485 ms
+2019-08-08 16:37:50,882 - HikariPool-1 - Starting...
+2019-08-08 16:37:51,162 - HikariPool-1 - Start completed.
+2019-08-08 16:37:51,216 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-08-08 16:37:51,288 - HHH000412: Hibernate Core {5.3.10.Final}
+2019-08-08 16:37:51,290 - HHH000206: hibernate.properties not found
+2019-08-08 16:37:51,430 - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-08-08 16:37:51,568 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-08 16:37:51,957 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-08-08 16:37:52,592 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-08 16:37:52,627 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-08-08 16:37:53,147 - Starting ProtocolHandler ["http-nio-8080"]
+2019-08-08 16:37:53,174 - Tomcat started on port(s): 8080 (http) with context path '/sell'
+2019-08-08 16:37:53,177 - Started SellApplication in 5.769 seconds (JVM running for 7.359)
+2019-08-08 16:38:14,755 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-08 16:38:14,757 - Initializing Servlet 'dispatcherServlet'
+2019-08-08 16:38:14,770 - Completed initialization in 13 ms
+2019-08-08 16:38:29,429 - HHH000397: Using ASTQueryTranslatorFactory
